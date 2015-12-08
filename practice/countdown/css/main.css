@@ -1,0 +1,81 @@
+	html,body {
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		background:url("../images/forest.jpg") no-repeat 0px 0px;
+		background-size: cover;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;		
+	}
+	p {
+		font-family:'Microsoft Yahei', Helvetica, Arial, sans-serif;
+	}
+	ul {
+		list-style-type: none;
+	}
+	a {
+		text-decoration: none;
+	}
+
+	#container {
+		min-height: 100%;
+		height: auto !important;
+		height: 100%;
+		position: relative;
+	}
+
+	#header {
+		display: block;
+		text-align: center;
+		padding-top: 3em;
+		margin:0 auto;
+		height: 200px;
+	}
+	#header p {
+		margin: 0;
+		font-size: 2em;
+		font-weight: bold;
+		color: #ffffff;
+	}
+	#logo {
+		width: 120px;
+		height: 110px;
+	}
+	#content {
+		width: 400px;
+		height: 350px;
+		margin: 0 auto;
+		padding-top: 20px;
+		background: #FFF7FF; /* Old browsers */
+		background: -moz-linear-gradient(top,  #FFF7FF 0%, #FFF7FF 36%, #FFECEC 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFF7FF), color-stop(36%,#FFF7FF), color-stop(100%,#FFECEC)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #FFF7FF 0%,#FFF7FF 36%,#FFECEC 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #FFF7FF 0%,#FFF7FF 36%,#FFECEC 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #FFF7FF 0%,#FFF7FF 36%,#FFECEC 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #FFF7FF 0%,#FFF7FF 36%,#FFECEC 100%); /* W3C */
+
+		border-radius: 5px;
+	}
+	#list {
+		height: 120px;
+	}
+	#contact-box li {
+		display: inline;
+	}
+	#footer {
+		position: absolute;
+		height: 40px;
+		width: 100%;
+		background-color: #000000;
+		opacity: 0.5;
+		bottom: 0px;
+	}
+
+	#footer p{
+		font-size: 10px;
+		font-weight:bold;
+		color: #ffffff;
+		padding: 10px auto;
+		text-align: center;
+	}

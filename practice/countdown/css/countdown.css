@@ -1,0 +1,95 @@
+/* ---------- TIMER ---------- */
+	.timer_wrap{
+		width:90%;
+		margin: 20px auto;
+	  	padding-bottom: 0.5em;
+	}
+	#counter {
+		font-size:50px;
+		color: #FFF;
+		overflow: hidden;
+		border-radius: 5px;
+		box-shadow: 15px 15px;
+
+	}
+	.timer{
+		border-top:2px ridge #5F5F5F;
+		border-bottom:2px ridge #5F5F5F;
+	}
+	.timer h4{
+		font-size: 14px;
+		color: #E5E5E5;
+		font-style: normal;
+		font-variant: normal;
+		letter-spacing: 1px;
+		margin-top: 20px;
+	}
+	.countDays, .countHours, .countMinutes, .countSeconds {
+	display: inline-block;
+	text-align: center;
+	width: 90px;
+	height: 100px;
+	background: #000000; /* Old browsers */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#fbda03',GradientType=0 ); /* IE6-9 */
+
+	}
+	.points {
+		float: left;
+		width:40px;
+		margin: 0;
+		font-size: 44px;
+		font-weight: bold;
+		text-align: center;
+		line-height: 138px;
+		text-shadow: none;
+		color:#FFF;
+	    display: none;
+	}
+	.boxName {
+	  float: left;
+	  width: 100%;
+	  font-size: 15px;
+	  color: #fff;
+	  font-weight: 600;
+	  clear: both;
+	  padding: 2px;
+	}
+/*jquery-countdown-css*/
+.countdownHolder{
+	font: 23px/0.8 'Open Sans', sans-serif;
+	padding-top:0em;
+	height: 89px;
+}
+.position{
+	display: inline-block;
+	height: 1em;
+	overflow: hidden;
+	position: relative;
+	width: 32px;
+	font-weight: 500;
+	font-size: 0.85em;
+	margin-top: 25px;
+}
+.digit{
+	color: #fff;
+	letter-spacing: -6px;
+	left: 3px;
+	bottom: 0;
+	position:absolute;
+	 font-weight: bold;
+}
+.countDays{ /* display:none !important;*/ }
+.countDiv0{ /* display:none !important;*/ }
+.countHours{}
+.countDiv1{}
+.countMinutes{}
+.countDiv2{}
+.countSeconds{}
+.countDiv{
+	width:16px;
+	height:1.6em;
+	position:relative;
+}
+.countDiv:after{
+	top:0.9em;
+}
