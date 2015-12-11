@@ -49,20 +49,32 @@ tags:
 		}
 	</script>
 
+完整的样例代码
 
-<meter id="meter" value="50" max="100" min="0"></meter>
-<script>
-	var i=1;
-	function thread_one(){
-		if(i<100){
-			setMeterValue(i);
-			i++;
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<meta charset="UTF-8">
+	<title>Meter元素JS控制</title>
+	</head>
+	<body>
+	<section>
+		<meter id="meter" value="50" max="100" min="0"></meter>
+	</section>
+	<script>
+		var i=1;
+		function thread_one(){
+			if(i<100){
+				setMeterValue(i);
+				i++;
+			}
 		}
-	}
-	setInterval(thread_one,100)
+		setInterval(thread_one,100)
 
-	function setMeterValue(newvalue){
-		var meterBar = document.getElementById('meter');
-		meterBar.value = newvalue;
-	}
-</script>
+		function setMeterValue(newvalue){
+			var meterBar = document.getElementById('meter');
+			meterBar.value = newvalue;
+		}
+	</script>
+	</body>
+	</html>
