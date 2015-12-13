@@ -9,7 +9,7 @@ tags:
     - HTML5
 ---
 
-# HTML5拖放 drag &amp; drop
+# HTML5拖放 drag & drop
 
 HTML5提供拖放操作的API。拖放的基本操作会涉及四个步骤：拖动开始，设置拖动数据，放入位置，放置。
 
