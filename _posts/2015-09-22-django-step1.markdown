@@ -2,6 +2,7 @@
 layout:     post
 title:      "Django Step1: 项目创建+连接MySQL+建表"
 subtitle:   
+class:		"note"
 date:       2015-12-03 
 author:     "eckid"
 header-img: "img/post-bg-2015.jpg"

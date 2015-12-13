@@ -2,6 +2,7 @@
 layout:     post
 title:      "&ltprogress&gt&ltmeter&gt标签"
 subtitle:   
+class:		"note"
 date:       2015-12-10 
 author:     "eckid"
 header-img: "img/practice-bg.jpg"

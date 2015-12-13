@@ -2,6 +2,7 @@
 layout:     post
 title:      "练习-网站开发倒计时页面"
 subtitle:   
+class:		"practice"
 date:       2015-12-05 
 author:     "eckid"
 header-img: "img/practice-bg.jpg"

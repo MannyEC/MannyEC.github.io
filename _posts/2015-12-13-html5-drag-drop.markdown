@@ -2,6 +2,7 @@
 layout:     post
 title:      "HTML5拖放 drag &amp; drop"
 subtitle:   
+class:		"note"
 date:       2015-12-13 
 author:     "eckid"
 header-img: "img/practice-bg.jpg"

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Practice"
-description: "日常练习"
-header-img: "img/practice-bg.jpg"
+title: Note
+description: "前端笔记"
+header-img: "img/note-bg.jpg"
 ---
 
 {% for post in site.posts %}
-    {% if post.class == "practice" %}
+    {% if post.class == "note" %}
     <div class="post-preview">
         <a href="{{ post.url | prepend: site.baseurl }}">
             <h2 class="post-title">
