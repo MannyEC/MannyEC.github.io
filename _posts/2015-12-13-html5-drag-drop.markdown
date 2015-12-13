@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "HTML5拖放 drag &amp drop"
+title:      "HTML5拖放 drag &amp; drop"
 subtitle:   
 date:       2015-12-13 
 author:     "eckid"
@@ -9,7 +9,7 @@ tags:
     - HTML5
 ---
 
-# HTML5拖放 drag &amp drop
+# HTML5拖放 drag &amp; drop
 
 HTML5提供拖放操作的API。拖放的基本操作会涉及四个步骤：拖动开始，设置拖动数据，放入位置，放置。
 
@@ -24,7 +24,7 @@ HTML5提供拖放操作的API。拖放的基本操作会涉及四个步骤：拖
 
 ## 来回拖放图片的示例
 
-[demo](http://)
+[demo](http://mannyec.github.io/demo/dropAndDrag/)
 
 实现的最终效果是在两个box之间来回拖放一张图片。
 
@@ -48,7 +48,7 @@ box1和box2作为图片容器，img1为图片元素，加入一个msgbox来输�
 
 ### 2.JS控制拖拽
 
-#####监听信息的呈现
+##### 监听信息的呈现
 
 	//输出监听信息,事件信息通过dataTransfer获取
 	function showMsg(msg){
