@@ -1,0 +1,121 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6, p{margin:0;}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: blue;
+}
+/************top bar*************/
+.topbar {
+    width: 100%;
+    position: relative;
+}
+
+.topbar-wrap {
+    min-width: 1000px;
+    height: 80px;
+    background-color: azure;
+}
+.topbar-left {
+    float: left;
+    width: 400px;
+    height: 100%;
+}
+
+.topbar-left img {
+    display: inline;
+    position: relative;
+}
+.topbar-left p {
+    display: inline;
+    position: relative;
+}
+
+
+.topbar-right {
+    float: right;
+    width: 450px;
+    height: 100%;
+}
+
+#search {
+    width: 300px;
+    display: inline-block;
+    height: 100%;
+}
+#loginbar {
+    width: 100px;
+    position: relative;
+    display: inline-block;
+    height: 100%;
+}
+#loginbar a {
+    text-decoration: none;
+    display: inline;
+}
+
+
+/**************content start***************/
+.content {
+    background-color: aquamarine;
+    width: 100%;
+}
+
+/***************above section************/
+.above-info {
+    min-width: 1000px;
+    background-color: cadetblue;
+    height: 100px;
+}
+.above-content {
+    min-width: 1000px;
+    height: 400px;
+    background-color: chartreuse;
+}
+.above-left {
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: coral;
+}
+.above-right {
+    width: 50%;
+    height: 100%;
+    float: right;
+    background-color: cornflowerblue;
+}
+/*****************detail section************/
+.detail {
+    background-color: brown;
+}
+
+.dtl-sec {
+    min-width: 1000px;
+    padding: 20px;
+}
+
+.dtl-sec-head {
+    background-color: cornflowerblue;
+    height: 20px;
+}
+.dtl-sec-cont {
+    background-color: darkorange;
+    padding: 20px;
+}
+..dtl-sec-cont td {
+    width: 30%;
+}
+
+
+/*************footer***********/
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color: aliceblue;
+}
