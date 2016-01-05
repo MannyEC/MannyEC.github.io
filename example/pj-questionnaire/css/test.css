@@ -1,0 +1,74 @@
+.content {
+    min-width: 1000px;
+    width: 80%;
+    margin: 60px auto;
+
+}
+
+.test-title {
+    height: 50px;
+    background-color: #58749C;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 20px 0 0 20px;
+}
+
+.test-intro,.test-cont{
+    background: #ffffff;
+    height:300px;
+    padding: 20px;
+}
+.test-intro{
+    font-size: 20px;
+}
+.test-intro button {
+    font-size: 10px;
+    display: block;
+    margin: 200px auto;
+}
+.test-cont {
+    font-size: 24px;
+}
+.progress {
+    position: relative;
+    margin:0 70px 30px 0;
+    border-radius: 5px;
+    background-color: #333333;
+    height: 20px;
+}
+
+#progress-bar {
+    background-color: #FFD600;
+    width: 5%;
+    height: 100%;
+    border-radius: 5px;
+}
+.progress span {
+    position: absolute;
+    right: -73px;
+    top: -10px;
+}
+
+.question {
+    display: none;
+}
+.answer ul {
+    padding: 2px;
+    list-style-type: none;
+
+}
+.answer ul a {
+    font-size: 20px;
+    display: block;
+    height: 30px;
+    width: 50%;
+    margin: 8px auto;
+    padding: 5px;
+    color: #000C13;
+    background: #D4D4D4;
+}
+
+.answer ul a:hover {
+    color: #F90000;
+    background: #A8DCA5;
+}

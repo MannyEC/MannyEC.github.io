@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>test page</title>
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+    <link href="css/test.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div class="topbar">
+    <div class="topbar-wrap">
+        <div class="topbar-left">
+            <div class="logo">
+                <a href="#">
+                    <img src="img/logo.png">
+                </a>
+            </div>
+        </div>
+        <div class="topbar-right">
+            <div id="search">
+                <form id="searchform">
+                    <input type="text" id="s_ipt" name="wd">
+                    <button class="s_btn" type="submit"></button>
+                </form>
+            </div>
+            <div id="loginbar">
+                <a href="#">注册</a>
+                <a href="#">登陆</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <header class="test-title">
+        <h1>你的心情是否处于焦虑状态？</h1>
+    </header>
+
+    <div class="test-intro">
+        <p>下面有二十条文字，请仔细阅读每一条，把意思弄明白，然后根据你最近一星期的实际感觉作答。</p>
+        <button type="button" id="startTest">开始测试</button>
+
+    </div>
+    <article class="test-cont">
+        <div class="progress">
+            <div id="progress-bar"></div><span id="progress-value"></span>
+        </div>
+        <div class="question">
+            <p>1.我觉得比平时容易紧张和着急</p>
+            <div class="answer">
+                <ul>
+                    <li>
+                        <a href="javascript:;">偶尔</a>
+                        <input type="radio" value="1" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">有时</a>
+                        <input type="radio" value="2" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">经常</a>
+                        <input type="radio" value="3" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">持续</a>
+                        <input type="radio" value="4" name="answer" style="display:none">
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="question">
+            <p>2.我无缘无故的感到害怕</p>
+            <div class="answer">
+                <ul>
+                    <li>
+                        <a href="javascript:;">偶尔</a>
+                        <input type="radio" value="1" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">有时</a>
+                        <input type="radio" value="2" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">经常</a>
+                        <input type="radio" value="3" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">持续</a>
+                        <input type="radio" value="4" name="answer" style="display:none">
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="question">
+            <p>3.我容易心里烦乱或觉得惊恐</p>
+            <div class="answer">
+                <ul>
+                    <li>
+                        <a href="javascript:;">偶尔</a>
+                        <input type="radio" value="1" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">有时</a>
+                        <input type="radio" value="2" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">经常</a>
+                        <input type="radio" value="3" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">持续</a>
+                        <input type="radio" value="4" name="answer" style="display:none">
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="question">
+            <p>4.我觉得我可能将要发疯</p>
+            <div class="answer">
+                <ul>
+                    <li>
+                        <a href="javascript:;">偶尔</a>
+                        <input type="radio" value="1" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">有时</a>
+                        <input type="radio" value="2" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">经常</a>
+                        <input type="radio" value="3" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">持续</a>
+                        <input type="radio" value="4" name="answer" style="display:none">
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="question">
+            <p>5.我觉得一切都很好，也不会发生什么不幸</p>
+            <div class="answer">
+                <ul>
+                    <li>
+                        <a href="javascript:;">偶尔</a>
+                        <input type="radio" value="1" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">有时</a>
+                        <input type="radio" value="2" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">经常</a>
+                        <input type="radio" value="3" name="answer" style="display:none">
+                    </li>
+                    <li>
+                        <a href="javascript:;">持续</a>
+                        <input type="radio" value="4" name="answer" style="display:none">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </article>
+</div>
+
+<footer class="footer">
+    <div class="contact">
+        <p>其他信息</p>
+    </div>
+</footer>
+<script type="text/javascript" src="js/test.js"></script>
+</body>
+</html>

@@ -1,4 +1,4 @@
-body,html,form,p,blockquote,fieldset,input { margin:0; padding:0 }
+body,html,form,p,blockquote,fieldset,input,ul { margin:0; padding:0 }
 
 body {
     font-family: "Microsoft Yahei", Helvetica, Arial, sans-serif;
@@ -189,19 +189,60 @@ h1, h2, h3, h4, h5, h6, p {
     color: #fff;
     margin-left:20px;
 }
+
 .dtl-sec-cont {
     background-color: #fff;
-    padding: 20px;
+    overflow: hidden;
+
 }
-.dtl-sec-cont a{
+.dtl-menu {
+    background: #F1F1F1;
+    float: left;
+    text-decoration: none;
+    width: 20%;
+ }
+
+.dtl-menu ul {
+    margin: 10px;
+}
+.dtl-menu li {
+    list-style: none;
+    text-align: center;
+    font-size: 17px;
+    background-color: #58749c;
+    height: 32px;
+    padding: 3px;
+    border: 1px solid #8793A2;
+    border-radius: 3px;
+    color: #FFF;
+}
+
+#dtl-menu-selected {
+    background-color: #778496;
+    color: #FFD600;
+    width: 101%;
+}
+.dtl-content-hide {
+    float: left;
+    background-color: #ffffff;
+    margin: 10px;
+    width: 70%;
+}
+.dtl-content-hide a{
     color: #000;
 }
-.dtl-sec-cont a:hover{
+.dtl-content-hide a:hover{
     color: #827676;
 }
-.dtl-sec-cont td {
-    width: 30%;
+
+.dtl-content-hide table,tbody,tr {
+    width: 100%;
 }
+.dtl-content-hide table td {
+    width: 30%;
+    height: 40px;
+}
+
 
 
 /*************footer***********/
