@@ -5,403 +5,403 @@
 	</question>
 	
 	<question category="positive" text="喜欢长时间的自身旋转">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="学会做一件简单的事，但是很快就'忘记'">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="经常没有接触环境或进行交往的要求">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="往往不能接受简单的指令(如坐下、来这儿等)">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="不会玩玩具等（如没完没了地转动或乱扔、揉等）">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="视觉辨别能力差（如对一种物体的特征--大小、颜色或位置等的辨别能力差等">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="无交往性微笑（无社交性微笑，即不会与人点头、招呼、微笑）">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="代词运用的颠倒或混乱（如把'你'说成'我'等等)">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="长时间的总拿着某件东西">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="似乎不在听人说话，以致怀疑他/她有听力问题">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="说话无抑扬顿挫，无节奏">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="长时间的摇摆身体">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text=" 要去拿什么东西，但又不是身体所能达到的地方(即时自身与物体距离估计不足)">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="对环境和日常生活规律的改变产生强烈反应">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text=" 当他和其他人在一起时，对呼唤他的名字无反应">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text=" 经常做出前冲、旋转、脚尖行走、手指轻掐轻弹等动作">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="对其他人的面部表情或情感没有反应">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="说话时很少用'是'或'我'等词">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text=" 有某一方面的特殊能力，似乎与智力低下不相符合">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="不能执行简单的含有介词语句的指令(如把球放在盒子上或把球放在盒子里)">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="有时对很大的声音不产生吃惊的反应(可能让人想到儿童是聋子)">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="经常拍打手">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="发大脾气或经常发点脾气 ">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="主动回避与别人进行眼光接触">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="拒绝与别人接触或拥抱">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text=" 有时对很痛苦的刺激如摔伤、割破或注射不引起反应">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="身体表现很僵硬很难抱住（如打挺)">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text=" 当抱着他时、感到他肌肉松弛（即他不紧贴着抱他的人）">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="以姿势、手势表示所渴望得到的东西(而不倾向用语言表示）">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="常用脚尖走路">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="用咬人、撞人、踢人等来伤害他人">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="不断地重复短句">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="游戏时不模仿其他儿童">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="当强光直接照射眼睛时常常不眨眼">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="以撞头、咬手等行为来自伤">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="想要什么东西不能等待(一想要什么就马上要得到什么）">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="不能指出5个以上物体的名称(注：能指出则勾'0'一个也不能则勾'4')">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="不能发展任何友谊(不会和小朋友来往交朋友)">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="有许多声音的时候常常盖着耳朵">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text=" 经常旋转碰撞物体">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="在训练大小便方面有困难(不会控制大小便)">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="一天只能提出5个以内的要求(注：达到或超过5个则勾'O'，一个不会提则勾'4')" >
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 		
 	<question category="positive" text="经常受到惊吓或非常焦虑、不安">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="在正常光线下斜眼、闭眼、皱眉">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text=" 不是经常帮助的话，不会自己给自己穿衣">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="一遍一遍重复一些声音或词">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="瞪着眼看人，好象要'看穿'似的">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="重复别人的问话和回答">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 
 	<question category="positive" text="经常不能意识所处的环境，并且可能对危险情况不在意">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="特别喜欢摆弄并着迷于单调的东西或游戏、活动等（如来回的走或跑、没完没了地蹦、跳、拍敲）">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="对周围东西喜欢触摸、嗅和/或尝">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="对生人常无视觉反应(对来人不看)" >
-	    <answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+	    <answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="纠缠在一些复杂的仪式行为上，就像魔圈内(如走路一定要走一定的路线，饭前或睡前或干什么以前一定要把什么东西摆在什么地方或做什么动作，否则就不睡、不吃等)">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text=" 经常毁坏东西（如玩具，家里的一切用具很快就弄破了)">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 	<question category="positive" text="在二岁半以前就发现这儿童发育延迟">
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="在日常生活中至今仅会用15个但又不超过30个短句来进行交往（注：达到30句则'0'，不到15句则勾'4')" >
-		<answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+		<answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 
 	<question category="positive" text="长期凝视一个地方（呆呆地看一处)" >
-	    <answer text="与年龄相当\n" value="1"/>
-		<answer text="轻度异常\n" value="2"/>
-		<answer text="中度异常\n" value="3"/>
-		<answer text="严重异常\n" value="4"/>
+	    <answer text="与年龄相当" value="1"/>
+		<answer text="轻度异常" value="2"/>
+		<answer text="中度异常" value="3"/>
+		<answer text="严重异常" value="4"/>
 	</question>
 	
 			
