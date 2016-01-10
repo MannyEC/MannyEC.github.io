@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quartine name="EuroQol EQ-5D Quality of Life Scale \n Simplified Chinese version">
+	
+	<question category="test" test="根据你最近一个星期的实际情况在适当的方格里面点击鼠标进行选择。">
+	</question>
+	
+	<question category="positive" text="1. 我觉得闷闷不乐，情绪低沉">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+	<question category="positive" text="2. 我觉得一天之中早晨最好">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+	<question category="positive" text="3. 我一阵阵地哭出来或是想哭">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+	<question category="positive" text="4. 我晚上睡眠不好">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+	<question category="positive" text="5. 我吃的和平时一样多">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+	<question category="positive" text="6. 我与异性接触时和以往一样感到愉快">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+	<question category="positive" text="7. 我发觉我的体重在下降">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+	<question category="positive" text="8. 我有便秘的苦恼">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+	<question category="positive" text="9. 我心跳比平时快">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+	<question category="positive" text="10.我无缘无故感到疲乏">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+	<question category="positive" text="11.我的头脑和平时一样清楚">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+	
+	<question category="positive" text="12.我觉得经常做的事情并没有困难">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+        <question category="positive" text="13.我觉得不安而平静不下来">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+        <question category="positive" text="14.我对将来抱有希望">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+        <question category="positive" text="15.我比平常容易激动">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+        <question category="positive" text="16.我觉得做出决定是容易的">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+        <question category="positive" text="17.我觉得自己是个有用的人，有人需要我">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+        <question category="positive" text="18.我的生活过得很有意思">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+        <question category="positive" text="19.我认为如果我死了别人会生活的更好些">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+        <question category="positive" text="20.平常感兴趣的事我仍然照样感兴趣">
+		<answer text="A：没有或很少时间（过去一周内，出现这类情况的日子不超过一天)\n" value="1"/>
+		<answer text="B：小部分时间（过去一周内，有1-2天有过这类情况）\n" value="2"/>
+		<answer text="C：大部分时间（过去一周内，有3-4天有过这类情况）\n" value="3"/>
+                <answer text="D：绝大部分或全部时间（过去一周内，有5-7天有过这类情况\n" value="4"/>
+	</question>
+
+	
+	
+</quartine>

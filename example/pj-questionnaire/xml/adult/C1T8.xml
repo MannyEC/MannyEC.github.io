@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="你是否有强迫症？">
+	
+
+	<question category="negative" text="担心自己衣饰整齐及仪态的端正">
+		<answer text="A.从不\n" value="1"/>
+		<answer text="B.偶尔\n" value="2"/>
+		<answer text="C.有时\n" value="3"/>
+		<answer text="D.经常\n" value="4"/>
+		<answer text="E.总是\n" value="5"/>
+	</question>
+	<question category="negative" text="脑海中有不必要的想法或字句盘旋">
+		<answer text="A.从不\n" value="1"/>
+		<answer text="B.偶尔\n" value="2"/>
+		<answer text="C.有时\n" value="3"/>
+		<answer text="D.经常\n" value="4"/>
+		<answer text="E.总是\n" value="5"/>
+	</question>
+	
+	<question category="negative" text="忘记性大">
+		<answer text="A.从不\n" value="1"/>
+		<answer text="B.偶尔\n" value="2"/>
+		<answer text="C.有时\n" value="3"/>
+		<answer text="D.经常\n" value="4"/>
+		<answer text="E.总是\n" value="5"/>
+	</question>
+	
+	<question category="negative" text="感到难以完成任务">
+		<answer text="A.从不\n" value="1"/>
+		<answer text="B.偶尔\n" value="2"/>
+		<answer text="C.有时\n" value="3"/>
+		<answer text="D.经常\n" value="4"/>
+		<answer text="E.总是\n" value="5"/>
+	</question>
+	
+	<question category="negative" text="做事必须要做的很慢以保证做的正确">
+		<answer text="A.从不\n" value="1"/>
+		<answer text="B.偶尔\n" value="2"/>
+		<answer text="C.有时\n" value="3"/>
+		<answer text="D.经常\n" value="4"/>
+		<answer text="E.总是\n" value="5"/>
+	</question>
+	
+	<question category="negative" text="做事必须反复检查">
+		<answer text="A.从不\n" value="1"/>
+		<answer text="B.偶尔\n" value="2"/>
+		<answer text="C.有时\n" value="3"/>
+		<answer text="D.经常\n" value="4"/>
+		<answer text="E.总是\n" value="5"/>
+	</question>
+	
+	<question category="negative" text="难以作出决定">
+		<answer text="A.从不\n" value="1"/>
+		<answer text="B.偶尔\n" value="2"/>
+		<answer text="C.有时\n" value="3"/>
+		<answer text="D.经常\n" value="4"/>
+		<answer text="E.总是\n" value="5"/>
+	</question>
+	
+	<question category="negative" text="脑子变空了">
+		<answer text="A.从不\n" value="1"/>
+		<answer text="B.偶尔\n" value="2"/>
+		<answer text="C.有时\n" value="3"/>
+		<answer text="D.经常\n" value="4"/>
+		<answer text="E.总是\n" value="5"/>
+	</question>
+	
+	<question category="negative" text="不能集中注意">
+		<answer text="A.从不\n" value="1"/>
+		<answer text="B.偶尔\n" value="2"/>
+		<answer text="C.有时\n" value="3"/>
+		<answer text="D.经常\n" value="4"/>
+		<answer text="E.总是\n" value="5"/>
+	</question>
+	
+	<question category="negative" text="必须反复洗手点数">
+		<answer text="A.从不\n" value="1"/>
+		<answer text="B.偶尔\n" value="2"/>
+		<answer text="C.有时\n" value="3"/>
+		<answer text="D.经常\n" value="4"/>
+		<answer text="E.总是\n" value="5"/>
+	</question>
+</quartine>

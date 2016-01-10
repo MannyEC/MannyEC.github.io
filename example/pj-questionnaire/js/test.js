@@ -2,13 +2,8 @@
  * Created by Administrator on 2016/1/5 0005.
  */
 
-var content = getElementsClass('content');
-var testIntro = getElementsClass('test-intro');
-var testContent = getElementsClass('test-cont');
-var startBtn = document.getElementById('startTest');
-var question = getElementsClass('question');
 
-(function () {
+$(document).ready(function () {
     content[0].appendChild(testIntro[0]);
     testContent[0].style.display = 'none';
 
@@ -18,7 +13,7 @@ var question = getElementsClass('question');
         showTest(0);
     }
 
-}())
+})
 
 
 function setProgress(i){

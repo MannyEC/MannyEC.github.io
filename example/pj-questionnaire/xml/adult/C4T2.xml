@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="关于如何应对生活中的压力的评定量表">
+	
+	<question category="text" text="以下列出的是当你在生活中经受到挫折打击或遇到困难时可能采取的态度和做法。请你仔细阅读每一项，然后选择回答，“不采取”为1，“偶尔采取”为2，“有时采取”为3，“经常采取”为4，请在最适合你本人情况的数字上画圈。">
+	</question>
+	
+	<question category="positive" text="通过工作学习或一些其他活动解脱">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="与人交谈，倾诉内心烦恼">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="尽量看到事物好的一面">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="改变自己的想法，重新发现生活中什么重要">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="不把问题看得太严重">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="坚持自己的立场，为自己想得到的斗争">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="找出几种不同的解决问题的方法">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="向亲戚朋友或同学寻求建议">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="改变原来的一些做法或自己的一些问题">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="借鉴他人处理类似困难情景的办法">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="寻求业余爱好积极参加文体活动">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="尽量克制自己的失望、悔恨、悲伤和愤怒">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="试图休息或休假，暂时把问题（烦恼）抛开">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="通过吸烟、喝酒、服药和吃东西来解除烦恼">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="认为时间会改变现状，唯一要做的便是等待">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="试图忘记整个事情">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="依靠别人解决问题">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="接受现实，因为没有其他办法">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="幻想可能会发生某种奇迹改变现状">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="positive" text="自己安慰自己">
+		<answer text="不采取\n" value="1"/>
+		<answer text="偶尔采取\n" value="2"/>
+		<answer text="有时采取\n" value="3"/>
+		<answer text="经常采取\n" value="4"/>
+	</question>
+	<question category="text" text="请将1-12条问题的得分相加得到积极应对总分，积极应对总分的范围在12到48之间，分数越高表明个体越倾向于采用积极的态度解决问题，例如“尽量看到事物好的一面”，“找出几种不同事情解决问题的方法：等。
+      请将13到20条问题的得分相加得到消极应对总分，消极应对总分范围在8到32分之间，分数越高表明个体越倾向于采用消极的态度解决问题，例如“通过吸烟喝酒来解除烦恼”和“幻想可能会发生某种奇迹改变现状”等。
+    ">
+	</question>
+
+</quartine>

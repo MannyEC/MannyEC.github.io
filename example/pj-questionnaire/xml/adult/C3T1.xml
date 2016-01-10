@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="你是否感到幸福？">
+	
+	<question category="text" text="以下问卷涉及到你最近生活的感受和看法，无好坏之分，根据自己的现实情况和切身体验回答，并请你仔细阅读每道题目，在相应的答案代码上画圈即可。">
+	</question>
+	<question category="text" text="在过去的一个月里：">
+	</question>
+
+	<question category="positive" text="你的总体感觉怎么样？">
+		<answer text="好极了\n" value="6"/>
+		<answer text="精神很好\n" value="5"/>
+		<answer text="精神不错\n" value="4"/>
+		<answer text="精神时好时坏\n" value="3"/>
+		<answer text="精神不好\n" value="2"/>
+		<answer text="精神很不好\n" value="1"/>
+	</question>
+
+	<question category="positive" text="你是否为自己神经质或神经病感到烦恼？">
+		<answer text="极端烦恼\n" value="1"/>
+		<answer text="相当烦恼\n" value="2"/>
+		<answer text="有些烦恼\n" value="3"/>
+		<answer text="很少烦恼\n" value="4"/>
+		<answer text="一点也不烦恼\n" value="5"/>
+	</question>
+
+	<question category="positive" text="你是否一直牢牢地控制着自己的行为、思维、情感或感情？">
+		<answer text="绝对的\n" value="1"/>
+		<answer text="大部分是\n" value="2"/>
+		<answer text="一般来说是\n" value="3"/>
+		<answer text="控制的不太好\n" value="4"/>
+		<answer text="有些混乱\n" value="5"/>
+		<answer text="非常混乱\n" value="6"/>
+	</question>
+
+	<question category="positive" text="你是否由于悲伤、失去信心、失望或有许多麻烦而有怀疑任何事情值得去做？">
+		<answer text="极端怀疑\n" value="1"/>
+		<answer text="非常怀疑\n" value="2"/>
+		<answer text="相当怀疑\n" value="3"/>
+		<answer text="有些怀疑\n" value="4"/>
+		<answer text="略微怀疑\n" value="5"/>
+		<answer text="一点也不怀疑\n" value="6"/>
+	</question>
+
+	<question category="positive" text="是否正在受到或曾经受到约束，刺激或者压力?">
+		<answer text="相当多\n" value="1"/>
+		<answer text="不少\n" value="2"/>
+		<answer text="有些\n" value="3"/>
+		<answer text="不多\n" value="4"/>
+		<answer text="没有\n" value="5"/>
+	</question>
+	<question category="positive" text="你的生活是否幸福、快乐、满足？">
+		<answer text="非常幸福\n" value="5"/>
+		<answer text="相当幸福\n" value="4"/>
+		<answer text="满足\n" value="3"/>
+		<answer text="略有些不满足\n" value="2"/>
+		<answer text="非常不满足\n" value="1"/>
+	</question>
+
+	<question category="positive" text="你是否有理由怀疑自己失去理智，或对谈话，思维、记忆曾失去控制？">
+		<answer text="一点也没有\n" value="5"/>
+		<answer text="只有一点点\n" value="4"/>
+		<answer text="不严重\n" value="3"/>
+		<answer text="有些严重\n" value="2"/>
+		<answer text="非常严重\n" value="1"/>
+	</question>
+
+	<question category="positive" text="你是否感到焦虑、担心、不安？">
+		<answer text="极端严重\n" value="1"/>
+		<answer text="非常严重\n" value="2"/>
+		<answer text="相当严重\n" value="3"/>
+		<answer text="有些\n" value="4"/>
+		<answer text="很少\n" value="5"/>
+		<answer text="无\n" value="6"/>
+	</question>
+
+	<question category="positive" text="你刚睡醒时是否感到头脑清晰经历充沛？">
+		<answer text="无\n" value="1"/>
+		<answer text="很少\n" value="2"/>
+		<answer text="不多\n" value="3"/>
+		<answer text="相当频繁\n" value="4"/>
+		<answer text="几乎天天\n" value="5"/>
+		<answer text="天天如此\n" value="6"/>
+	</question>
+
+	<question category="positive" text="你是否因为疾病身体不适、疼痛对患病的恐惧而烦恼 ？">
+		<answer text="所有的时间\n" value="1"/>
+		<answer text="大部分时间\n" value="2"/>
+		<answer text="很多时间\n" value="3"/>
+		<answer text="有时\n" value="4"/>
+		<answer text="偶尔\n" value="5"/>
+		<answer text="无\n" value="6"/>
+	</question>
+
+	<question category="positive" text="你的生活是否每天充满了让你感兴趣的事情？">
+		<answer text="所有的时间\n" value="6"/>
+		<answer text="大部分时间\n" value="5"/>
+		<answer text="很多时间\n" value="4"/>
+		<answer text="有时\n" value="3"/>
+		<answer text="偶尔\n" value="2"/>
+		<answer text="无\n" value="1"/>
+	</question>
+
+	<question category="positive" text="你是否感到沮丧和忧郁？">
+		<answer text="所有的时间\n" value="6"/>
+		<answer text="大部分时间\n" value="5"/>
+		<answer text="很多时间\n" value="4"/>
+		<answer text="有时\n" value="3"/>
+		<answer text="偶尔\n" value="2"/>
+		<answer text="无\n" value="1"/>
+	</question>
+
+	<question category="positive" text="你是否情绪稳定并且能控制自己？">
+		<answer text="所有的时间\n" value="6"/>
+		<answer text="大部分时间\n" value="5"/>
+		<answer text="很多时间\n" value="4"/>
+		<answer text="有时\n" value="3"/>
+		<answer text="偶尔\n" value="2"/>
+		<answer text="无\n" value="1"/>
+	</question>
+
+	<question category="positive" text="你是否感到疲劳、过累，无力或筋疲力尽？">
+		<answer text="所有的时间\n" value="6"/>
+		<answer text="大部分时间\n" value="5"/>
+		<answer text="很多时间\n" value="4"/>
+		<answer text="有时\n" value="3"/>
+		<answer text="偶尔\n" value="2"/>
+		<answer text="无\n" value="1"/>
+	</question>
+
+	<question category="positive" text="你对自己的健康关心或担忧程度如何？">
+		<answer text="不关心10" value="10"/>
+		<answer text="9" value="9"/>
+		<answer text="8" value="8"/>
+		<answer text="7" value="7"/>
+		<answer text="6" value="6"/>
+		<answer text="5" value="5"/>
+		<answer text="4" value="4"/>
+		<answer text="3" value="3"/>
+		<answer text="2" value="2"/>
+		<answer text="1" value="1"/>
+		<answer text="非常关心0" value="0"/>
+	</question>
+
+	<question category="positive" text="你感到放松或者紧张的程度？">
+		<answer text="松弛10" value="10"/>
+		<answer text="9" value="9"/>
+		<answer text="8" value="8"/>
+		<answer text="7" value="7"/>
+		<answer text="6" value="6"/>
+		<answer text="5" value="5"/>
+		<answer text="4" value="4"/>
+		<answer text="3" value="3"/>
+		<answer text="2" value="2"/>
+		<answer text="1" value="1"/>
+		<answer text="紧张0" value="0"/>
+	</question>
+
+	<question category="positive" text="你感觉自己精神如何？">
+		<answer text="精力充沛10" value="10"/>
+		<answer text="9" value="9"/>
+		<answer text="8" value="8"/>
+		<answer text="7" value="7"/>
+		<answer text="6" value="6"/>
+		<answer text="5" value="5"/>
+		<answer text="4" value="4"/>
+		<answer text="3" value="3"/>
+		<answer text="2" value="2"/>
+		<answer text="1" value="1"/>
+		<answer text="无精打采0" value="0"/>
+	</question>
+
+	<question category="positive" text="你感到忧郁或快乐的程度？">
+		<answer text="非常开心10" value="10"/>
+		<answer text="9" value="9"/>
+		<answer text="8" value="8"/>
+		<answer text="7" value="7"/>
+		<answer text="6" value="6"/>
+		<answer text="5" value="5"/>
+		<answer text="4" value="4"/>
+		<answer text="3" value="3"/>
+		<answer text="2" value="2"/>
+		<answer text="1" value="1"/>
+		<answer text="非常忧郁0" value="0"/>
+	</question>
+	
+
+</quartine>

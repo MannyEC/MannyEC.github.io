@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quartine name="下列问题，回答“是”就请在“1”上画圈，否则在0上画圈，请您按照自己的真实情况认真填写，不要空下问题。">
+	
+
+	<question category="negative" text="1、当你考试或被提问题时是否出汗很多或颤抖的很厉害">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>	
+		
+	</question>
+
+	<question category="negative" text="2、接近你的主管上级时是否紧张和发抖">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+
+	<question category="negative" text="3、当你的上级看着你工作时，你是否不知所措">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+
+	<question category="negative" text="4、当必须快速做事情时，你是否有头脑完全混乱的现象">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+
+	<question category="negative" text="5、为了避免出错，你做事必须很慢吗？">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+	<question category="negative" text="6、你经常把指令或意图体会（理解）错吗">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+	<question category="negative" text="7、是否生疏的人或场所使你很害怕">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+
+         </question>
+
+
+ <question category="negative" text="8、身边没有熟人时你是否因孤独而恐慌">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>	
+		
+	</question>
+
+	<question category="negative" text="9、你是否总是难以下决心（犹豫不决）">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+
+	<question category="negative" text="10、你是否总是希望有人在你身边给你出主意">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+
+	<question category="negative" text="11、别人认为你是个很笨的人吗">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+
+	<question category="negative" text="12、除了在你自己家之外，在其他任何地方吃东西都感到烦扰吗">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+	
+	
+
+
+</quartine>

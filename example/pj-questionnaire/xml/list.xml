@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<title>
+	<adultList>
+		<class>
+			<title docname="C1T7">你是否睡眠良好，能得到充足的休息</title>
+			<title docname="C1T8">你是否有强迫症</title>
+
+		</class>
+		<class>
+			<title docname="C2T1">你是否了解你的自尊水平</title>
+		</class>
+		<class>
+			<title docname="C3T1">你是否感到幸福</title>
+		</class>
+		<class>
+			<title docname="C4T1">你目前的压力水平如何</title>
+		</class>		
+		<class>
+			<title docname="C5T1">营造和谐家庭氛围</title>
+		</class>		
+		<class>
+			<title docname="C6T1">提高婚姻质量</title>
+		</class>		
+		<class>
+			<title docname="C7T1">你是否是民主的教育方式</title>
+		</class>		
+		<class>
+			<title docname="C8T1">您是否经常觉得疲劳</title>
+		</class>
+	</adultList>
+	<childList>
+
+	</childList>
+	<others>
+	</others>
+</title>

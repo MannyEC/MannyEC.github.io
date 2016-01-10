@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="你目前的压力水平如何？">
+	
+	<question category="text" text="下面是每个人都有可能遇到的一些日常生活事件，究竟是好事还是坏事，可根据个人情况自行判断。这些事件可能对个人有精神上的影响（体验为紧张、压力、兴奋或苦恼等），影响的轻重程度是各不相同的。影响持续的时间也不一样。请你根据自己的情况，将一年以内自己身上的事件记录下来，有的事件虽然发生在该段时间范围之前，如果影响深远并延续至今，可作为长期性事件记录。对于表上已列出但并未经历的事件应一一注明“未经历”，不留空格，以防遗漏。由填写者根据自身的实际感受而不是按常理或伦理道德观念去判断那些经历过的事件对本人来说是好事或者坏事？影响程度如何？影响持续的时间有多久？一过性的事件如流产、失窃要记录发生的次数，长期性事件如住房拥挤、夫妻分居等不到半年记为1次，超过半年记为2次。影响程度分为5级，从毫无影响到影响极重分别记0、1、2、3、4分。影响持续时间分三月内、半年内、一年内、一年以上共4个等级，分别记0、1、2、3、4分。">
+	</question>
+	
+	<question category="positive" text="恋爱或订婚">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="恋爱失败、破裂">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="结婚">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="自己（爱人）怀孕">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="自己（爱人）流产">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="家庭添加新成员">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="与爱人父母不和">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="夫妻感情不好">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="夫妻分居（因不和）">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="夫妻两地分居（工作需要">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="性生活吗不满意或独身">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="配偶一方有外遇">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="夫妻重归于好">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="超指标生育">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="本人(爱人)做绝育手术">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="配偶死亡">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="离婚">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="子女升学(就业)失败">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="子女管教困难">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="子女长期离家">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="父母不和">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="家庭经济困难">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="欠债500元以上">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="经济情况显著改善">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="家庭成员重病、重伤">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="家庭成员死亡">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="本人重病或重伤">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="住房紧张">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="待业、无业">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="开始就业">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="高考失败">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="扣发奖金或罚款">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="突出的个人陈就">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="晋升、提级">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="对现职工作不满意">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="工作学习中压力大(如成绩不好)">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="与上级关系紧张">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="与同事邻居不和">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="第一次远走他乡异国">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="生活规律重大变动(饮食睡眠规律改变)">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="本人退休离职或未安排具体">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="好友重病或重伤">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="好友死亡">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="被人误会、错怪、诬告、议论">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="被拘留、受审">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="失窃、财产损失">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+	<question category="positive" text="意外惊吓、发生事故、自然灾害">
+		<answer text="是否存在：是\n" value="0"/>
+		<answer text="是否存在：否\n" value="1"/>
+		<answer text="影响程度：轻度\n" value="1"/>
+		<answer text="影响程度：中度\n" value="2"/>
+		<answer text="影响程度：重度\n" value="3"/>
+		<answer text="影响程度：严重\n" value="4"/>
+	</question>
+
+</quartine>

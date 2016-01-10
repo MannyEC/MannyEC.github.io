@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quartine name="EuroQol EQ-5D Quality of Life Scale \n Simplified Chinese version">
+	
+	<question category="text" text="你和配偶的性生活十分和谐？">
+	</question>
+	<question category="positive" text="我完全满意配偶对我的感情。">
+		<answer text="确实是这样\n" value="1"/>
+		<answer text="可能是这样\n" value="2"/>
+                <answer text="不同意也不反对\n" value="3"/>
+                <answer text="可能不是这样\n" value="4"/>
+                <answer text="确实不是这样\n" value="5"/>
+	</question>
+	<question category="positive" text="我担心配偶可能在性方面对我不感兴趣。">
+		<answer text="确实是这样\n" value="5"/>
+		<answer text="可能是这样\n" value="4"/>
+                <answer text="不同意也不反对\n" value="3"/>
+                <answer text="可能不是这样\n" value="2"/>
+                <answer text="确实不是这样\n" value="1"/>
+	</question>
+	
+	<question category="positive" text="为了使性关系保持乐趣，我们尝试找一些新的办法。">
+		<answer text="确实是这样\n" value="1"/>
+		<answer text="可能是这样\n" value="2"/>
+                <answer text="不同意也不反对\n" value="3"/>
+                <answer text="可能不是这样\n" value="4"/>
+                <answer text="确实不是这样\n" value="5"/>
+	</question>
+	
+	
+	
+	<question category="positive" text="与配偶谈论性问题，对我来说是很容易和轻松的。">
+		<answer text="确实是这样\n" value="1"/>
+		<answer text="可能是这样\n" value="2"/>
+                <answer text="不同意也不反对\n" value="3"/>
+                <answer text="可能不是这样\n" value="4"/>
+                <answer text="确实不是这样\n" value="5"/>
+	</question>
+        <question category="positive" text="有时，我担心配偶会有寻求婚外性关系的想法。">
+		<answer text="确实是这样\n" value="5"/>
+		<answer text="可能是这样\n" value="4"/>
+                <answer text="不同意也不反对\n" value="3"/>
+                <answer text="可能不是这样\n" value="2"/>
+                <answer text="确实不是这样\n" value="1"/>
+	</question>
+        <question category="positive" text="对我拉来说，我们的性关系是满意与完美的。">
+		<answer text="确实是这样\n" value="5"/>
+		<answer text="可能是这样\n" value="4"/>
+                <answer text="不同意也不反对\n" value="3"/>
+                <answer text="可能不是这样\n" value="2"/>
+                <answer text="确实不是这样\n" value="1"/>
+	</question>
+       <question category="positive" text="我不愿对配偶表现出很温柔，因为它经常被误以为是一种性的表示。">
+		<answer text="确实是这样\n" value="1"/>
+		<answer text="可能是这样\n" value="2"/>
+                <answer text="不同意也不反对\n" value="3"/>
+                <answer text="可能不是这样\n" value="4"/>
+                <answer text="确实不是这样\n" value="5"/>
+	</question>
+        <question category="positive" text="有时，我很在意配偶的性兴趣与我不一致。">
+		<answer text="确实是这样\n" value="1"/>
+		<answer text="可能是这样\n" value="2"/>
+                <answer text="不同意也不反对\n" value="3"/>
+                <answer text="可能不是这样\n" value="4"/>
+                <answer text="确实不是这样\n" value="5"/>
+	</question>
+        <question category="positive" text="我很满意关于家庭计划和生育子女数的决定。">
+		<answer text="确实是这样\n" value="5"/>
+		<answer text="可能是这样\n" value="4"/>
+                <answer text="不同意也不反对\n" value="3"/>
+                <answer text="可能不是这样\n" value="2"/>
+                <answer text="确实不是这样\n" value="1"/>
+	</question>
+	<question category="positive" text="我很烦恼，没有配偶的允许我不能花钱。">
+		<answer text="确实是这样\n" value="5"/>
+		<answer text="可能是这样\n" value="4"/>
+                <answer text="不同意也不反对\n" value="3"/>
+                <answer text="可能不是这样\n" value="2"/>
+                <answer text="确实不是这样\n" value="1"/>
+	</question>
+	<question category="positive" text="配偶应用不公平的方式同意或拒绝性生活，使我很烦恼。">
+		<answer text="确实是这样\n" value="5"/>
+		<answer text="可能是这样\n" value="4"/>
+                <answer text="不同意也不反对\n" value="3"/>
+                <answer text="可能不是这样\n" value="2"/>
+                <answer text="确实不是这样\n" value="1"/>
+	</question>
+
+	
+</quartine>

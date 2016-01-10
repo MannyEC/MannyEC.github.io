@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quartine name="您是否经常觉得疲劳">
+	
+
+	<question category="negative" text="您是否经常觉得疲劳？">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>	
+		
+	</question>
+
+	<question category="negative" text="你是否经常感到一阵一阵很疲劳">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+
+	<question category="negative" text="是否工作使你感到筋疲力尽">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+
+	<question category="negative" text="你是否经常早晨起床后即搞到累">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+
+	<question category="negative" text="你是否经常因累而吃不下饭">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+	<question category="negative" text="你是否有严重的精神衰弱">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+	</question>
+	<question category="negative" text="你的家属中是否有患有精神衰弱的人">
+		<answer text="1\n" value="1"/>
+		<answer text="0\n" value="0"/>
+
+         </question>
+	
+	
+
+
+</quartine>

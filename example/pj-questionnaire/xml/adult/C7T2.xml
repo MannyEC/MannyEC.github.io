@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="你是否是严厉的教育方式？">
+         
+       
+	
+	
+	<question text="认真阅读以下题目，每个题目答案均有1、2、3、4四个等级。请你分别在最适合你父亲和你母亲的等级数字上面选择。每题只准选一个答案。你母亲和父亲对你的教养方式可能是相同的，也可能是不同的。请你实事求是的分别回答。" category="text"> </question>
+
+
+	<question category="positive" text="在我小的时候，父母曾当着别人面打我或是训斥我">
+		<answer text="父" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+		<answer text="母" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+	</question>
+	<question category="positive" text="父母对我的惩罚往往超过我因受的程度">
+		<answer text="父" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+		<answer text="母" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+	</question>
+	<question category="positive" text="父母曾无缘无故的惩罚我">
+		<answer text="父" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+		<answer text="母" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+	</question>
+	<question category="positive" text="父母经常对我粗俗无礼">
+		<answer text="父" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+		<answer text="母" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+	</question>
+	<question category="positive" text="有时甚至为一点鸡毛蒜皮的小事，父母也会严厉的惩罚我">
+		<answer text="父" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+		<answer text="母" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+	</question>
+	<question category="positive" text="父母曾无缘无故的打过我">
+		<answer text="父" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+		<answer text="母" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+	</question>
+	<question category="positive" text="我经常挨父母的打">
+		<answer text="父" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+		<answer text="母" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+	</question>
+	<question category="positive" text="父母常以一种使我很难堪的方式对待我">
+		<answer text="父" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+		<answer text="母" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+	</question>
+	<question category="positive" text="父母常常在我不知打原因的情况下对我大发脾气">
+		<answer text="父" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+		<answer text="母" />
+		<answer text="从不" value="1"/>
+		<answer text="偶尔" value="2"/>
+		<answer text="经常" value="3"/>
+		<answer text="总是\n" value="4"/>
+	</question>
+</quartine>
+

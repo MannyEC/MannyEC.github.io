@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="你对你的生活是否感到满意">
+	
+	<question category="text" text="下面的一些陈述涉及人们对生活的不同感受。请阅读下列陈述，如果你同意该观点，就请在“同意”的数字上画圈；如果不同意该观点，请在“不同意”的数字上画圈；如果无法肯定是否同意，则在“？”的数字上画圈。请务必回答每一个问题。">
+	</question>
+	
+	<question category="positive" text="当我老了以后发现许多事情似乎要比原先想象的好">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+	<question category="positive" text="与我所认识的多数人相比，我更好的把握了生活中的机遇">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+	<question category="positive" text="现在是我一生中最沉闷的时期">
+		<answer text="不同意\n" value="3"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="1"/>
+	</question>
+
+	<question category="positive" text="我现在和年轻时一样幸福">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+	<question category="positive" text="我的生活原本应该是更好的时光">
+		<answer text="不同意\n" value="3"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="1"/>
+	</question>
+
+	<question category="positive" text="现在是我一生中最美好的时光">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+	<question category="positive" text="我所做的事多半是令人厌烦和单调乏味的">
+		<answer text="不同意\n" value="3"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="1"/>
+	</question>
+
+	<question category="positive" text="我估计最近恩能遇到一些有趣的令人愉快的事">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+	<question category="positive" text="我现在做的事和以前做的事一样有趣">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+	<question category="positive" text="我感到老了、有些累了">
+		<answer text="不同意\n" value="3"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="1"/>
+	</question>
+
+	<question category="positive" text="我感到自己确实上了年纪，但我并不为此而烦恼">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+	<question category="positive" text=".回首往事，我相当满足">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+	<question category="positive" text="即使能改变自己的过去，我也不愿有所改变">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+	<question category="positive" text="与其它同龄人相比，我曾做出过较多的愚蠢的决定">
+		<answer text="不同意\n" value="3"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="1"/>
+	</question>
+
+	<question category="positive" text="与其它同龄人相比，我的外表比较年轻">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+	<question category="positive" text="我已经为一个月甚至一年后该做的事制定了计划">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+	<question category="positive" text="回首往事，我有许多想得到的东西均未得到">
+		<answer text="不同意\n" value="3"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="1"/>
+	</question>
+
+	<question category="positive" text="与其它人相比，我惨遭失败的次数太多了">
+		<answer text="不同意\n" value="3"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="1"/>
+	</question>
+
+	<question category="positive" text="我在生活中得到了相当多我所希望的东西">
+		<answer text="不同意\n" value="1"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="3"/>
+	</question>
+
+    <question category="positive" text="不管人们怎样说，许多普通人是越过越糟，而不是越过越好了">
+		<answer text="不同意\n" value="3"/>
+		<answer text="？\n" value="2"/>
+		<answer text="同意\n" value="1"/>
+	</question>
+</quartine>

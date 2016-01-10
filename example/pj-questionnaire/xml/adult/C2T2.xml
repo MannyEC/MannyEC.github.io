@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="2你是否了解自己的自信水平？">
+	
+
+	<question category="negative" text="1我希望同事们能给我跟多的帮助">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="2我感到社会不太需要我这种工作">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="3我对未来深感忧虑">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="4我觉得很多人不喜欢我">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="5我觉得与其他人相比自己精力不足">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="6我很想知道，我的全部想法是否合适">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="7我担心自己受人愚弄了">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="8我觉得别人的样貌比我好看">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="9陌生人面前讲话我局熟得很">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="10任务交给我办会出错">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="11我希望学会在他人面前谈笑自若">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="12我希望有更大的自信心">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="13我想知道怎么做才能赢得别人更多的好感">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="14我过分谦虚">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="15我过分自负">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="16很多人的意见与我不同">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="17我觉得周围没有一个人能让我诉说私事">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="18人们对我的期望过大">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="19我觉得人们对我的成就没有引起足够的兴趣">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="20我觉得自己陷入窘境">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="21我觉得大多数人都不理解我">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="22我对周围无安全感">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="23我常有不必要的担心">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="24我走进满屋是人的房间时，我觉得很不自然">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="25我觉得有人背后议论我">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="26我感到身心不能放松">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="27我觉得别人做任何事都比我容易">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="28我害怕什么不幸的是降临到我身上">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="29我会考虑别人用什么方式对我">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="30我希望自己善于交际、">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="31只有确信自己是正确的，才敢在讨论会上发言">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+	<question category="negative" text="32别人对我有什么希望">
+		<answer text="1.非常强\n" value="5"/>
+		<answer text="2.强\n" value="4"/>
+		<answer text="3.中偏强\n" value="3"/>
+		<answer text="4.中偏弱\n" value="2"/>
+		<answer text="5.弱\n" value="1"/>
+	</question>
+
+
+</quartine>
