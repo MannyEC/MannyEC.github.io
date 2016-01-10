@@ -237,6 +237,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 .dtl-content-hide table,tbody,tr {
     width: 100%;
+    background-color: #F5F5F5;
 }
 .dtl-content-hide table td {
     width: 30%;

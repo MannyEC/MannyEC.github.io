@@ -15,7 +15,6 @@
 
 .test-intro,.test-cont{
     background: #ffffff;
-    height:300px;
     padding: 20px;
 }
 .test-intro{
@@ -60,7 +59,6 @@
 .answer ul a {
     font-size: 20px;
     display: block;
-    height: 30px;
     width: 50%;
     margin: 8px auto;
     padding: 5px;

@@ -20,21 +20,37 @@ $(document).ready(function () {
 
 function setList(xml) {
     var $adultList = $(xml).find('adultList');
-        var Class = $adultList.find('class');
+    var Class = $adultList.find('class');
 
-        Class.each(function () {
-            var curTitle = $(this).find('title');
-            var frag = $("<table>");
+    Class.each(function () {
+        var curTitle = $(this).find('title');
+        var frag = $("<table>");
 
-            curTitle.each(function(){
-                var title = $(this);
-                var url = 'test.html?id=' + title.attr('docname')+"&type=adult";
-                var text = title.text();
-                console.log(title.attr("docname"));
-                console.log(curTitle.length);
-                frag.append("<tr><td><div class=\"dtl-box\"><p><a href=" + url + ">" + text + "</a></p></div></td></tr>");
-            })
-            frag.appendTo("#detail-cont-hide-adult");
+        curTitle.each(function () {
+            var title = $(this);
+            var url = 'test.html?id=' + title.attr('docname') + "&type=adult";
+            var text = title.text();
+            frag.append("<tr><td><div class=\"dtl-box\"><p><a href=" + url + ">" + text + "</a></p></div></td></tr>");
+        });
+        frag.appendTo("#detail-cont-hide-adult");
 
-    })
+    });
+
+
+    var $childList = $(xml).find('childList');
+    var childClass = $childList.find('class');
+    childClass.each(function () {
+        var curTitle = $(this).find('title');
+        var frag = $("<table>");
+
+        curTitle.each(function () {
+            var title = $(this);
+            var url = 'test.html?id=' + title.attr('docname') + "&type=child";
+            var text = title.text();
+            frag.append("<tr><td><div class=\"dtl-box\"><p><a href=" + url + ">" + text + "</a></p></div></td></tr>");
+        });
+        frag.appendTo("#child .dtl-content-hide");
+
+    });
+
 }

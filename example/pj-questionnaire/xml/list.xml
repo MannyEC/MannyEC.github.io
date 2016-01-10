@@ -2,34 +2,78 @@
 <title>
 	<adultList>
 		<class>
-			<title docname="C1T7">你是否睡眠良好，能得到充足的休息</title>
-			<title docname="C1T8">你是否有强迫症</title>
+			<title docname="C1T1">你的心情是否处于抑郁状态?</title>
+			<title docname="C1T2">你的心情是否处于焦虑状态?</title>
+			<title docname="C1T3">你把心理问题躯体化了吗?</title>
+			<title docname="C1T4">你有健康的人际关系吗?</title>
+			<title docname="C1T5">你控制脾气的水平如何?</title>
+			<title docname="C1T6">你对某些事物的恐惧是否超出正常水平?</title>
+
+			<title docname="C1T7">你是否睡眠良好,能得到充足的休息?</title>
+			<title docname="C1T8">你是否有强迫症?</title>
 
 		</class>
 		<class>
-			<title docname="C2T1">你是否了解你的自尊水平</title>
+			<title docname="C2T1">你是否了解你的自尊水平?</title>
+			<title docname="C2T2">你是否了解你的自信水平?</title>
+			<title docname="C2T3">你是否能够把握好谨慎与鲁莽的度?</title>
+
 		</class>
 		<class>
-			<title docname="C3T1">你是否感到幸福</title>
+			<title docname="C3T1">你是否感到幸福?</title>
+			<title docname="C3T2">你对你的生活是否满意?</title>
+
 		</class>
 		<class>
-			<title docname="C4T1">你目前的压力水平如何</title>
+			<title docname="C4T1">你目前的压力水平如何?</title>
+			<title docname="C4T2">你是如何应对生活中的压力的?</title>
+			<title docname="C4T3">你是否有足够的应对压力的资源?</title>
+			<title docname="C4T4">压力是否影响到了你的身体健康?</title>
+
 		</class>		
 		<class>
-			<title docname="C5T1">营造和谐家庭氛围</title>
+			<title docname="C5T1">你的家庭成员是否亲密?</title>
+			<title docname="C5T2">你的家庭成员之间的情感沟通如何?</title>
+			<title docname="C5T3">你的家庭中成员之间的心理距离如何?</title>
+
 		</class>		
 		<class>
-			<title docname="C6T1">提高婚姻质量</title>
+			<title docname="C6T1">你对婚姻的理想化程度如何?</title>
+			<title docname="C6T2">你对婚姻的满意程度如何?</title>
+			<title docname="C6T3">你和你的配偶之间的性格是否相容?</title>
+			<title docname="C6T4">你和你的配偶之间的交流如何?</title>
+			<title docname="C6T5">你和配偶之间解决冲突的方式是什么?</title>
+			<title docname="C6T6">你对于家庭中的经济安排是否满意?</title>
+			<title docname="C6T7">你和配偶的性生活是否和谐?</title>
+			<title docname="C6T8">你和配偶对子女和婚姻的态度是否一致?</title>
+			<title docname="C6T9">你和亲友的关系如何?</title>
+			<title docname="C6T10">你的家庭中你和配偶的角色是否平等?</title>
+
 		</class>		
 		<class>
-			<title docname="C7T1">你是否是民主的教育方式</title>
+			<title docname="C7T1">你是否是民主的教养方式?</title>
+			<title docname="C7T2">你是否是严厉的教养方式?</title>
+			<title docname="C7T3">你是否是控制的教养方式?</title>
+			<title docname="C7T4">你是否是忽视的教养方式?(父亲)</title>
+			<title docname="C7T5">你是否是忽视的教育方式?(母亲)</title>
+
 		</class>		
 		<class>
-			<title docname="C8T1">您是否经常觉得疲劳</title>
+			<title docname="C8T1">你是否经常觉得疲劳?</title>
+			<title docname="C8T2">你是否难以适应周围情环境?</title>
+			<title docname="C8T3">你是否经常处于紧张状态?</title>
+			<title docname="C8T4">你是否容易感到孤独?</title>
+
 		</class>
 	</adultList>
 	<childList>
-
+		<class>
+			<title docname="child01">儿童自闭测量</title>
+			<title docname="child02">新生儿的行为能力</title>
+			<title docname="child03">儿童孤独症家长评定量表</title>
+			<title docname="child04">儿童孤独症评定量表</title>
+			<title docname="child05">儿童行为量表(CBCL)(家长用，适用于4—16岁儿童)</title>
+		</class>
 	</childList>
 	<others>
 	</others>
