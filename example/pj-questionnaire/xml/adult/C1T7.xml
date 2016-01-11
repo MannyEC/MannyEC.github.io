@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="你是否睡眠良好，能得到充足的休息">
+		<question category="text" text="下面列出了有些人可能有的病痛或问题，请仔细阅读每一条，然后根据最近一个月的实际情况判断影响你或使你感到苦恼的程度，在等级数中选择最合适的一个。">
+	</question>
+
+
+	<question category="negative" text="近一个月来你的作息时间是否规律">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>
+		<question category="negative" text="入眠困难">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>	<question category="negative" text="夜间易醒或早醒">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>	<question category="negative" text="夜间去厕所">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>	<question category="negative" text="睡眠中呼吸不畅">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>	<question category="negative" text="咳嗽或鼾声高">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>	<question category="negative" text="做恶梦">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>	<question category="negative" text="疼痛不适">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>	<question category="negative" text="近一个月，你用药物催眠的情况">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>	<question category="negative" text="近一个月你常感到困倦吗">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>	<question category="negative" text="近一个月来每天的睡眠时间">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>	<question category="negative" text="近一个月来，总的来说，你认为自己的睡眠质量">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>	<question category="negative" text="近一个月，您做事情精力不足吗？">
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
+	</question>
+</quartine>

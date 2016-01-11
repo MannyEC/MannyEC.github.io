@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="你的心情是否处于焦虑状态">
+	<question text="请根据最近一个星期的实际情况判断选择" category="text"></question>
+	<question text="我觉得比平时容易紧张和着急" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我无缘无故的感到害怕" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我容易心里烦乱或觉得惊恐" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我觉得我可能要发疯" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我觉得一切都好，也不会发生什么不幸" category="positive">
+		<answer text="偶尔" value="4"></answer>
+		<answer text="有时" value="3"></answer>
+		<answer text="经常" value="2"></answer>
+		<answer text="持续" value="1"></answer>
+	</question>
+	<question text="我手脚发抖打颤" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我因为头痛、头颈痛和背痛而苦恼" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我感觉容易衰弱和疲乏" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我觉得心平气和，并且容易安静的坐着" category="positive">
+		<answer text="偶尔" value="4"></answer>
+		<answer text="有时" value="3"></answer>
+		<answer text="经常" value="2"></answer>
+		<answer text="持续" value="1"></answer>
+	</question>
+	<question text="我觉得心跳的很快" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我因为一阵阵头晕而苦恼" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我有晕倒发作，或觉得要晕倒似的" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我呼气吸气都感到很容易" category="positive">
+		<answer text="偶尔" value="4"></answer>
+		<answer text="有时" value="3"></answer>
+		<answer text="经常" value="2"></answer>
+		<answer text="持续" value="1"></answer>
+	</question>
+	<question text="我的手脚麻木和刺痛" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我因为胃痛和消化不良而苦恼" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我常常要小便" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我的手常常是干燥温暖的" category="positive">
+		<answer text="偶尔" value="4"></answer>
+		<answer text="有时" value="3"></answer>
+		<answer text="经常" value="2"></answer>
+		<answer text="持续" value="1"></answer>
+	</question>
+	<question text="我脸红发热" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+	<question text="我容易入睡，并且一夜睡得很好" category="positive">
+		<answer text="偶尔" value="4"></answer>
+		<answer text="有时" value="3"></answer>
+		<answer text="经常" value="2"></answer>
+		<answer text="持续" value="1"></answer>
+	</question>
+	<question text="我做恶梦" category="positive">
+		<answer text="偶尔" value="1"></answer>
+		<answer text="有时" value="2"></answer>
+		<answer text="经常" value="3"></answer>
+		<answer text="持续" value="4"></answer>
+	</question>
+
+</quartine>

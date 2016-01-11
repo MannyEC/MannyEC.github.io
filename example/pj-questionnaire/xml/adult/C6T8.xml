@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quartine name="你和配偶对子女和婚姻的态度是否一致">
+	<question category="text" text="对于是否生育子女以及子女数和态度，你和你的配偶意见一致吗？这里有10个条目帮助你来了解，主要包括受试对夫妻双方担任父母角色的满意度、对生育子女的看法，对管教子女的意见是否同意，对子女的期望是否一致等。">
+	</question>
+	<question category="positive" text="在我们家里，父母与孩子呆在一起所花的时间不够。">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+	<question category="positive" text="我很满意我们对抚养子女的责任分工。">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+	
+	<question category="positive" text="在管教子女方面，夫妻意见一致。">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+	
+	
+	
+	<question category="positive" text="子女似乎是我们婚姻中矛盾的一个主要来源。">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+        <question category="positive" text="我们对所需子女的数量意见一致。">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+        <question category="positive" text="我的配偶对子女的关注超过对我们的婚姻，这使我不舒服。">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+       <question category="positive" text="有了孩子，使我们的婚姻关系更密切。">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+        <question category="positive" text="应该为子女做多少事，是我们发生冲突的一个原因。">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+        <question category="positive" text="我很满意关于家庭计划和生育子女数的决定。">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+	<question category="positive" text="我和配偶在对子女进宗教教育方面有不同的意见">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+	<question category="positive" text="自从有了孩子，夫妻间很少有时间单独在一起。">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+
+	
+</quartine>

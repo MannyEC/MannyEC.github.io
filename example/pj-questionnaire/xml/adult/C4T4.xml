@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="压力是否影响到了你的身体健康">
+
+<question text="在晚会上，有人突然请你讲话。你的反应" category="text"> </question>
+	<question category="positive" text="心跳">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="拘束">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="逗乐">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+	<question category="positive" text="冷静">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+	<question category="positive" text="窘迫">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="脸红">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question text="一个警察知道你有急事，可是故意刁难你，耽搁你的世界。你的反应" category="text"> </question>
+	<question category="positive" text="友好">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+	<question category="positive" text="侵犯">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="发抖">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="镇定自若">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+		<question category="positive" text="心中不安">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="出汗">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question text="某位领导约见你，你准时到了，但等了1个多小时，对方才来。你的反应" category="text"> </question>
+	<question category="positive" text="不高兴">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="发脾气">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="克制">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+	<question category="positive" text="心跳">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="逗乐">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+	<question category="positive" text="出汗">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question text="你的汽车在行驶中抛锚了。你的反应" category="text"> </question>
+	<question category="positive" text="镇静">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+	<question category="positive" text="发脾气">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="出汗">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="克制">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+	<question category="positive" text="束手无策">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="心跳">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question text="你的录音机摔坏了" category="text"> </question>
+	<question category="positive" text="镇静">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+	<question category="positive" text="发脾气">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="出汗">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="克制">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+	<question category="positive" text="束手无策">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="心跳">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question text="你要进行一场考试，监考人唤你入场时，口气严厉而不友好。你的反应" category="text"> </question>
+	<question category="positive" text="心跳">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="手抖">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="镇静">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+	<question category="positive" text="自信">
+		<answer text="是" value="1" />
+		<answer text="否" value="0" />
+	</question>
+	
+	<question category="positive" text="出汗">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+	<question category="positive" text="焦虑">
+		<answer text="是" value="0" />
+		<answer text="否" value="1" />
+	</question>
+	
+</quartine>

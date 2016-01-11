@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quartine name="你控制脾气的水平如何">
+	<question text="请根据最近一个月的实际情况判断选择" category="text"></question>
+
+	<question text="1.容易烦恼和激动" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
+	</question>
+
+	<question text="2.自己不能控制地大发脾气" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
+	</question>
+	<question text="3.有想打人或伤害他人的冲动" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
+	</question>
+	<question text="4.有想摔坏或破坏东西的想法" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
+	</question>
+	<question text="5.经常与人争论" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
+	</question>
+	<question text="6.大叫或摔东西" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
+	</question>
+</quartine>

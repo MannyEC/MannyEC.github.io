@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="SCL90自评症状量表 ">
+	
+	<question category="text" text="《症状自评量表-SCL90》是世界上最著名的心理健康测试量表之一,是当
+
+前使用最为广泛的精神障碍和心理疾病门诊检查量表.">
+	</question>
+	
+	<question category="positve" text="头痛">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="神经过敏，心中不踏实">
+		<answer text="没有\n"/>
+		<answer text="很轻\n"/>
+		<answer text="中等\n"/>
+                <answer text="偏重\n"/>
+                <answer text="严重\n"/>
+	</question>
+        <question category="positve" text="头脑中有不必要的想法或字句盘旋">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="头昏或昏倒">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="对异性的兴趣减退">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="对旁人责备求全">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到别人能控制你的思想">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="责怪别人制造麻烦">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="忘记性大">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="担心自己的衣饰整齐及仪态的端正">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="容易烦恼和激动">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="胸痛">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="害怕空旷的场所或街道">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到自己的精力下降，活动减慢">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="想结束自己的生命">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="听到旁人听不到的声音">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="发抖">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到大多数人都不可信任">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="胃口不好">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="容易哭泣">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="同异性相处是感到害羞不自在">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到受骗，中了圈套或有人想抓你">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="无缘无故的突然感到害怕">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="自己不能控制的大发脾气">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="怕单独出门">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="经常责怪自己">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="腰痛">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到难以完成任务">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到孤独">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到苦闷">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="过分担忧">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="对事物不感兴趣">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到害怕">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="我的感情容易受到伤害">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="旁人能知道您私下的想法">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到别人不理解你不同情你">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到人们对你不友好，不喜欢你">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="做事必须做的慢以保证做的正确">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="心跳的厉害">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="恶心或胃部不舒服">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到比不上他人">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="肌肉酸痛">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到有人在监视您谈论您">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="难以入睡">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="做事必须反复检查">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="难以做出决定">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="怕乘电车、公共汽车、地铁或火车">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="呼吸有困难">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="一阵阵发冷或发热">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="因为感到害怕而避开某些东西，场合或活动">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="脑子变空了">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="身体发麻或刺痛">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="喉咙有梗塞感">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到对前途没有希望">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="不能集中注意力">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到身体的某一部分较弱无力">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到紧张或容易紧张">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到手或脚发沉">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="想到有关死亡的事">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="吃得太多">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="当别人看着您或谈论您时感到不自在">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="有一些不属于您自己的想法">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="有想打人或伤害他人的冲动">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="醒的太早">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="必须反复洗手、点数目或触摸某些东西">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="睡得不稳不深">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="有想摔坏或破坏东西的冲动">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="有一些别人没有的想法或念头">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到别人神经过敏">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="在商店或电影院等人多的地方感到不自在">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到任何事情都很难做">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="一阵阵恐惧或惊恐">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到在公共场合吃东西很不舒服">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="经常与人争论">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="单独一人是神经很紧张">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="别人对您的成绩没有作出恰当的评价">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="即使和别人在一起也感到孤单">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到坐立不安心神不宁">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到自己没有什么价值">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到熟悉的东西变成陌生或不像真的">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="大叫或摔东西">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="害怕在公共场合昏倒">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到别人想占您的便宜">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="为一些有关“性”的想法而很苦恼">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="认为应该因为自己的过错而受到惩罚">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到要赶快把事情做完">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到自己的身体有严重问题">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="从未感到和其他人很亲近">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到自己有罪">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+        <question category="positve" text="感到自己脑子有毛病">
+		<answer text="没有"/>
+		<answer text="很轻"/>
+		<answer text="中等"/>
+                <answer text="偏重"/>
+                <answer text="严重"/>
+	</question>
+</quartine>

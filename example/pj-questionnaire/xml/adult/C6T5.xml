@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<quartine name="你和配偶之间解决冲突的方式是什么">
+	
+	<question category="text" text="假如你和配偶发生了冲突，你采取什么样的解决方式呢？这些解决方式是否合理？这个小测验共10项，帮助你评定夫妻中存在的冲突与解决方式的感受、信念和态度。">
+	</question>
+	
+	<question category="positive" text="为了尽早结束争吵，我常立即让步">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+	
+	<question category="positive" text="当讨论某一问题时我通常感到配偶是理解我的">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+	
+	<question category="positive" text="当我遇到困难时，我总是告诉配偶">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+	
+	<question category="positive" text="有时在一些不重要的问题上我们常产生严重的争执">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+	
+	<question category="positive" text="我尽量避免与配偶发生冲突">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+        <question category="positive" text="有时，我觉得夫妻之间的争执没完没了，从得不到愉快">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+        <question category="positive" text="当夫妻间出现意见不一时，我们开诚布公地交流感受和决定怎么来解决它">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+       <question category="positive" text="我经常感觉配偶没有认真对待我们的分歧">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+        <question category="positive" text="当我们争吵时，我通常不去想这是我的过错">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+        
+</quartine>

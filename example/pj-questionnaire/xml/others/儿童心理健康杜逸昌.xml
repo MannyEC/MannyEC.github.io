@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quartine name="EuroQol EQ-5D Quality of Life Scale \n Simplified Chinese version">
+	
+	<question category="text" text="对以下40道题，如果感到“常常是”，划√号；“偶尔”是，划△号；“完全没有”，划×号。
+">
+	</question>
+	
+	<question category="positive" text="平时不知为什么总觉得心慌意乱，坐立不安。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+	
+	<question category="positive" text="上床后，怎么也睡不着，即使睡着也容易惊醒。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+	
+	<question category="positive" text="经常做恶梦，惊恐不安，早晨醒来就感到倦怠无力、焦虑烦躁。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+	
+	<question category="positive" text="经常早醒1-2小时 ，醒后很难再入睡。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+	<question category="positive" text="学习的压力常使自己感到非常烦躁，讨厌学习。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="读书看报甚至在课堂上也不能专心一致，往往自己也搞不清在想什么。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="遇到不称心的事情便较长时间地沉默少言。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="感到很多事情不称心，无端发火。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="哪怕是一件小事情，也总是很放不开，整日思索。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="感到现实生活中没有什么事情能引起自己的乐趣，郁郁寡欢。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="老师讲概念，常常听不懂，有时懂得快忘得也快。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="遇到问题常常举棋不定，迟疑再三。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="经常与人争吵发火，过后又后悔不已。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="经常追悔自己做过的事，有负疚感。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="一遇到考试，即使有准备也紧张焦虑。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="一遇挫折，便心灰意冷，丧失信心。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="非常害怕失败，行动前总是提心吊胆，畏首畏尾。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="感情脆弱，稍不顺心，就暗自流泪。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>>
+        <question category="positive" text="自己瞧不起自己，觉得别人总在嘲笑自己。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="喜欢跟自己年幼或能力不如自己的人一起玩或比赛。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+	<question category="positive" text="感到没有人理解自己，烦闷时别人很难使自己高兴。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="发现别人在窃窃私语，便怀疑是在背后议论自己。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="对别人取得的成绩和荣誉常常表示怀疑，甚至嫉妒。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="缺乏安全感，总觉得别人要加害自己。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="参加春游等集体活动时，总有孤独感。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="害怕见陌生人，人多时说话就脸红。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="在黑夜行走或独自在家有恐惧感。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="一旦离开父母，心里就不踏实。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="经常怀疑自己接触的东西不干净，反复洗手或换衣服，对清洁极端注意。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="担心是否锁门和可能着火，反复检查，经常躺在床上又起来确认，或刚一出门又返回检查。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="站在经常有人自杀的场所、悬崖边、大厦顶、阳台上，有摇摇晃晃要跳下去的感觉。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="对他人的疾病非常敏感，经常打听，深怕自己也身患同病。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="对特定的事物、交通工具（电车、公共汽车等）、尖状物及白色墙壁等稍微奇怪的东西有恐怖倾向。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="经常怀疑自己发育不良。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="一旦与异性交往就脸红心慌或想入非非。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text=" 对某个异性伙伴的每一个细微行为都很注意。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="怀疑自己患了癌症等严重不治之症，反复看医书或去医院检查。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="经常无端头痛，并依赖止痛或镇静药。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text=" 经常有离家出走或脱离集体的想法。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+        <question category="positive" text="感到内心痛苦无法解脱，只能自伤或自杀。">
+		<answer text="常常是\n" value="2"/>
+		<answer text="偶尔\n" value="1"/>
+                <answer text="完全没有\n" value="0"/>
+	</question>
+       
+</quartine>

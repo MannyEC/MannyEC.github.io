@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="你的家庭成员是否亲密">
+
+<question text="通过该测验你可以了解到家庭成员之间相互承诺、帮助和支持的程度" category="text"> </question>
+<question category="positive" text="在家里我们感到很无聊。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="家里有事时，很少有人自愿去做。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="我们家的集体精神很少。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="我们家庭成员都总是互相最大的帮助与支持。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="家庭成员原因花很大的精力做家里的事。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="在我们家，有一种和谐一致的气氛。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="家庭成员都总是衷心的互相支持。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="家庭成员彼此之间都一直合得来。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="家庭的每一个成员都一直得到充分的关心。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+</quartine>

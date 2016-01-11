@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<quartine name="你的家庭中成员之间的心理距离如何">
+
+<question text="通过该测验你可以了解到家庭成员之间的独立性、自尊、自信和自主程度" category="text"> </question>
+<question category="positive" text="在家中我们很少自己单独活动。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="家庭成员都依赖家人的帮助去解决他们遇到的困难。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="我们都非常鼓励家里人具有独立精神。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="家庭成员都独立思考问题。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="我们家的每个人出人是完全自由的。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="家庭成员做事时很少考虑家里其他人的意见。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="家庭成员希望家里人独立思考问题。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="如果家庭成员经常独自活动，会伤家里其他人的感情。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+<question category="positive" text="在我们家确实鼓励成员都自由活动。">
+	<answer text="是" value="1" />
+	<answer text="否" value="2" />
+</question>
+
+</quartine>

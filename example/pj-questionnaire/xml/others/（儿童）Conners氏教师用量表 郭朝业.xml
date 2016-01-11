@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quartine name="Conners氏教师用量表">
+
+    <question category="positive" text="扭动不停">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+    <question category="positive" text="在不应出声的场合制造噪音">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	<question category="positive" text="提出要求必须立即得到满足">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="动作粗鲁（唐突无理)">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="暴怒及不能预料的行为">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="对批评过于敏感">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="容易分心或注意不集中成为问题">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="妨害其他儿童">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="白日梦">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="撅嘴和生气">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="情绪变化迅速和激烈">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="好争吵">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="能顺从权威">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="坐立不定，经常“忙碌”">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="易兴奋，易冲动">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="过分要求教师的注意">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="好象不为集体所接受">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="好象容易被其他小孩领导">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="缺少公平合理竞赛的意识">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="好象缺乏领导能力">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="做事有始无终">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="稚气和不成熟">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="抵赖错误或归罪他人">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+	    <question category="positive" text="不能与其他儿童相处">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+		<question category="positive" text="与同学不合作">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+		<question category="positive" text="在努力中容易泄气（灰心丧气)">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+		<question category="positive" text="与教师不合作">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+	
+		<question category="positive" text="学习困难">
+        <answer text="无" value="0" />
+        <answer text="稍有" value="1" />
+		<answer text="相当多" value="2" />
+        <answer text="很多" value="3" />
+    </question>
+
+</quartine>

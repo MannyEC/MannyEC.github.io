@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+    <title>test page</title>
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+    <link href="css/test.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div class="topbar">
+    <div class="topbar-wrap">
+        <div class="topbar-left">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="img/logo.png">
+                </a>
+            </div>
+        </div>
+        <div class="topbar-right">
+            <div id="search">
+                <form id="searchform">
+                    <input type="text" id="s_ipt" name="wd">
+                    <button class="s_btn" type="submit"></button>
+                </form>
+            </div>
+            <div id="loginbar">
+                <a href="#">注册</a>
+                <a href="#">登陆</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <header class="test-title">
+        <h1></h1>
+    </header>
+
+    <div class="test-intro">
+        <p></p>
+        <button type="button" id="startTest">开始测试</button>
+
+    </div>
+    <article class="test-cont">
+        <div class="progress">
+            <div id="progress-bar"></div><span id="progress-value"></span>
+        </div>
+        <div class="result"></div>
+    </article>
+</div>
+
+<footer class="footer">
+    <div class="contact">
+        <p>其他信息</p>
+    </div>
+</footer>
+<script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/setTest.js"></script>
+<script type="text/javascript" src="js/test.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quartine name="你是否经常处于紧张状态">
+	<question category="text" text="请仔细阅读每一条，根据你一贯的实际表现判断哲别描述是否符合你的实际情况。">
+	</question>
+	
+
+	<question category="negative" text="1、你是否经常发抖和战栗">
+		<answer text="1" value="1"/>
+		<answer text="0" value="0"/>	
+		
+	</question>
+
+	<question category="negative" text="2、你是否经常紧张焦急">
+		<answer text="1" value="1"/>
+		<answer text="0" value="0"/>
+	</question>
+
+	<question category="negative" text="3、你是否会被突然的声音吓一大跳（跳起或发抖得厉害）">
+		<answer text="1" value="1"/>
+		<answer text="0" value="0"/>
+	</question>
+
+	<question category="negative" text="4、是否不管何时，当别人大声叫你时，你都被吓得发抖和发软">
+		<answer text="1" value="1"/>
+		<answer text="0" value="0"/>
+	</question>
+
+	<question category="negative" text="5、你对夜间突然的动静是否感到恐惧（害怕）">
+		<answer text="1" value="1"/>
+		<answer text="0" value="0"/>
+	</question>
+	<question category="negative" text="6、你是否经常因恶梦而惊醒">
+		<answer text="1" value="1"/>
+		<answer text="0" value="0"/>
+	</question>
+	<question category="negative" text="7、你是否头脑中经常反复出现某种恐怖(可怕的)想法">
+		<answer text="1" value="1"/>
+		<answer text="0" value="0"/>
+
+         </question>
+
+
+ <question category="negative" text="8、你是否常常毫无理由地突然感到畏惧（害怕）">
+		<answer text="1" value="1"/>
+		<answer text="0" value="0"/>	
+		
+	</question>
+
+	<question category="negative" text="9、你是否经常有突然出冷汗得情况">
+		<answer text="1" value="1"/>
+		<answer text="0" value="0"/>
+	</question>
+
+
+	
+
+
+</quartine>

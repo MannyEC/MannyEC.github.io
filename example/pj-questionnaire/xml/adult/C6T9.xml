@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quartine name="你和亲友的关系如何">
+	<question category="text" text="婚姻关系中双方亲友对婚姻质量也有一定的影响，这个小测验帮助你客观衡量夫妻双方与亲友关系的感受。">
+	</question>
+	<question category="positive" text="亲友中的一些人使我们的婚姻变得紧张。">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+	<question category="positive" text="我认为配偶与他/她家里过于亲密或受其影响太大。">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+	
+	<question category="positive" text="与我的配偶家的亲戚在一起，我感到不愉快。">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+	
+	
+	
+	<question category="positive" text="我的配偶喜欢我的所有朋友。">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+        <question category="positive" text="有时我的配偶与朋友在一起的时间太多。">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+        <question category="positive" text="我觉得我们的父母给我们的婚姻造成问题。">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+       <question category="positive" text="我觉得双方的父母过高的期望得到我们的关心与帮助。">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+        <question category="positive" text="我确实很高兴与配偶的所有朋友来往。">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+        <question category="positive" text="我很满意关于家庭计划和生育子女数的决定。">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+	<question category="positive" text="我不在意配偶与异性朋友在一起。">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+
+	
+</quartine>
