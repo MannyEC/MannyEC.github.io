@@ -289,6 +289,12 @@ h1, h2, h3, h4, h5, h6, p {
     #search {
         display: none;
     }
+    .topbar-right {
+        width: 35%;
+    }
+    .dtl-content-hide table, tbody, tr {
+        width: 95%;
+    }
     .dtl-menu {
         width: 100%;
     }
