@@ -23,13 +23,6 @@ $(document).ready(function () {
                 setTest(xml);
 
 
-                content = getElementsClass('content');
-                testIntro = getElementsClass('test-intro');
-                testContent = getElementsClass('test-cont');
-                startBtn = document.getElementById('startTest');
-                question = getElementsClass('question');
-
-
             }
         });
 
@@ -61,7 +54,7 @@ function setTest(xml){
             var select = $(this).attr('text');
             var value = $(this).attr('value');
             frag.append('<a href=\"javascript:;\">'+select+'</a>');
-            frag.append('<input type=\"radio\" value='+value+'name=\"answer\" style=\"display:none\">');
+            frag.append('<input type=\"radio\" value='+ value +' name=\"answer\" style=\"display:none\">');
             answfragUL.append(frag);
         })
         answfrag.append(answfragUL);
