@@ -258,14 +258,17 @@ h1, h2, h3, h4, h5, h6, p {
     height: 100px;
     background-color: #383838;
     position: relative;
-    margin-top: auto;
 }
+
 
 /************Responsive**********/
 @media screen and (min-width: 960px){
     body {
         min-width: 1300px;
 
+    }
+    .content {
+        min-height: 400px;
     }
 }
 

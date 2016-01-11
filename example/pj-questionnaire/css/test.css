@@ -90,6 +90,7 @@
     .content{
         margin:0 auto;
         width: 90%;
+        min-height: 500px;
     }
     .test-title {
         height: 50px;
