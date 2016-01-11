@@ -1,5 +1,4 @@
 .content {
-    min-width: 1000px;
     width: 80%;
     margin: 60px auto;
 
@@ -69,4 +68,43 @@
 .answer ul a:hover {
     color: #F90000;
     background: #A8DCA5;
+}
+
+/************rResponsive**********/
+@media screen and (min-width: 960px){
+    .content{
+        min-width: 1000px;
+    }
+
+
+}
+
+@media screen and (min-width: 600px) and (max-width: 960px){
+    .content{
+        min-width: 780px;
+    }
+
+}
+
+@media screen and (max-width: 600px){
+    .content{
+        margin:0 auto;
+        width: 90%;
+    }
+    .test-title {
+        height: 50px;
+        font-size: 16px;
+        padding: 10px 0 0 10px;
+    }
+
+    .answer ul a {
+        font-size: 15px;
+        display: block;
+        width: 100%;
+        margin: 7px auto;
+        padding: 3px;
+        color: #000C13;
+        background: #D4D4D4;
+    }
+
 }
