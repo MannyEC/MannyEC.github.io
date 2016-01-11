@@ -1,130 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
-<quartine name="谨慎度与鲁莽度评定量表">
+<quartine name="你是否能够把握好谨慎与鲁莽的度">
 	
-	<question category="text" text="你是否能够把握好谨慎与鲁莽的度
-        请仔细阅读下面24个问题，挑选出你认为合适的答案，当不能决定选择“是”或“否”的时候，请选“不知道”。">
+	<question category="text" text="请仔细阅读下面24个问题，挑选出你认为合适的答案，当不能决定选择“是”或“否”的时候，请选“不知道”。">
 	</question>
 	
 	<question category="positive" text="一个冬天的周末，你计划开车旅游，天气突然变坏，下起大雪。你还会按计划旅游吗">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 
 	<question category="positive" text="你学过系统的飞行知识，但未经实地训练，你敢单独驾滑翔机飞行吗">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="塔没有手扶，你敢攀登吗">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你运气好，偶然一次买彩票中了奖，下次你会买更多吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="洗澡间使用电器，你从不担心吗">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你喝了酒，已有醉意，还敢骑自行车行路吗">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="如果你有汽车，你是否平时不检修，只进行定期大修？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你是个司机，会在能见度不足百分之百的情况下超车吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你会毫不犹豫就参加乘气球越过一座高山的活动吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你敢抚摸已经麻醉的狮子吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你认为躺在床上吸烟不危险吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你认为在大河上漂流探险有意义吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你一冲动，就会鲁莽从事吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你是个司机，虽然路途不熟，但是为了节省30分钟，你就会抄近路行驶吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="、你不会游泳，如果有人出100元赏金，你会从3米高的跳台上跳下水吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="如果你临时有事要出门，可衣服还没有洗完，你会让洗衣机继续转动吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你认为在家里面安放灭火器没有必要吗">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你认为摩托车考试没有必要吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="黄灯亮了，你还会领小孩一起过马路吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你主张在汽车里不用安全带吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你通常不阅读产品用法说明书吗，是吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你一遇急事，就不顾交通规则吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你想为朋友买件衬衫，但忘了尺寸。你还会买吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 	<question category="positive" text="你眼看就要攀登到山顶了，但暴风马上就要来临，你会迅速登上山顶，然后再返回去吗？">
-		<answer text="是\n" value="1"/>
-		<answer text="不知道\n" value="2"/>
-		<answer text="否\n" value="3"/>
+		<answer text="是" value="1"/>
+		<answer text="不知道" value="2"/>
+		<answer text="否" value="3"/>
 	</question>
 
 

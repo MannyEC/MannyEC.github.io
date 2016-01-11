@@ -1,10 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<quartine name="你与你的配偶之间的性格是否相容">
-	
-	<question category="text" text="你对配偶的性格是否满意？你们之间的关系是否和谐呢？这个小测验能够帮助你测定对配偶行为方式的满意程度，主要是性格，但也包括吸烟、饮酒等。">
+<?xml version="1.0" encoding="utf-8" ?>
+<quartine name="你的家庭中你和配偶的角色是否平等">
+	<question category="text" text="婚姻关系中夫妻双方承担的角色各不相同，包括家庭角色、性角色、父母角色以及职业角色等。这个测验将会帮助你来客观评价你和配偶在婚姻中角色的平等性。">
 	</question>
-	
-	<question category="positive" text="我的配偶过于挑剔或经常持否定的观点">
+	<question category="positive" text="我认为妇女主要应呆在家里">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
+	</question>
+	<question category="positive" text="如果双方都有工作，丈夫应该承担与妻子相同量的家务劳动">
 		<answer text="确实是这样" value="1"/>
 		<answer text="可能是这样" value="2"/>
                 <answer text="不同意也不反对" value="3"/>
@@ -12,66 +17,63 @@
                 <answer text="确实不是这样" value="5"/>
 	</question>
 	
-	<question category="positive" text="有时，我对配偶的脾气很在意">
-		<answer text="确实是这样" value="1"/>
-		<answer text="可能是这样" value="2"/>
+	<question category="positive" text="除非经济上需要，我的妻子不应外出工作">
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
                 <answer text="不同意也不反对" value="3"/>
-                <answer text="可能不是这样" value="4"/>
-                <answer text="确实不是这样" value="5"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
 	</question>
 	
-	<question category="positive" text="有时，我对配偶显得不愉快和孤僻感到担心">
-		<answer text="确实是这样" value="1"/>
-		<answer text="可能是这样" value="2"/>
-                <answer text="不同意也不反对" value="3"/>
-                <answer text="可能不是这样" value="4"/>
-                <answer text="确实不是这样" value="5"/>
-	</question>
 	
-	<question category="positive" text="我配偶抽烟或饮酒成问题">
-		<answer text="确实是这样" value="1"/>
-		<answer text="可能是这样" value="2"/>
-                <answer text="不同意也不反对" value="3"/>
-                <answer text="可能不是这样" value="4"/>
-                <answer text="确实不是这样" value="5"/>
-	</question>
 	
-	<question category="positive" text="有时，我的配偶不依赖我。不总是人云亦云">
+	<question category="positive" text="在我们的婚姻中，妻子应更加顺从丈夫的愿望">
 		<answer text="确实是这样" value="1"/>
 		<answer text="可能是这样" value="2"/>
                 <answer text="不同意也不反对" value="3"/>
                 <answer text="可能不是这样" value="4"/>
                 <answer text="确实不是这样" value="5"/>
 	</question>
-        <question category="positive" text="当我们与别人共处时有时我为配偶的行为感到不安">
+
+		<question category="positive" text="即使妻子在外工作，也应该负担管理家务的责任">
 		<answer text="确实是这样" value="1"/>
 		<answer text="可能是这样" value="2"/>
                 <answer text="不同意也不反对" value="3"/>
                 <answer text="可能不是这样" value="4"/>
                 <answer text="确实不是这样" value="5"/>
 	</question>
-        <question category="positive" text="有时，我的配偶太固执">
+	<question category="positive" text="我们家丈夫是一家之主">
 		<answer text="确实是这样" value="1"/>
 		<answer text="可能是这样" value="2"/>
                 <answer text="不同意也不反对" value="3"/>
                 <answer text="可能不是这样" value="4"/>
                 <answer text="确实不是这样" value="5"/>
 	</question>
-       <question category="positive" text="配偶经常拖拖拉拉，使我很烦恼">
+
+	<question category="positive" text="对于我们来说，丈夫的职业较妻子的职业更重要">
 		<answer text="确实是这样" value="1"/>
 		<answer text="可能是这样" value="2"/>
                 <answer text="不同意也不反对" value="3"/>
                 <answer text="可能不是这样" value="4"/>
                 <answer text="确实不是这样" value="5"/>
 	</question>
-        <question category="positive" text="对于配偶的喜怒无常，有时使我感到束手无策">
+
+	<question category="positive" text="如果家里有很小的子女，妻子不应该外出工作">
 		<answer text="确实是这样" value="1"/>
 		<answer text="可能是这样" value="2"/>
                 <answer text="不同意也不反对" value="3"/>
                 <answer text="可能不是这样" value="4"/>
                 <answer text="确实不是这样" value="5"/>
 	</question>
-        <question category="positive" text="有时，我怕认为配偶过于盛气凌人">
+
+	<question category="positive" text="在我们家里，丈夫在大多数重要的事情上应有最后的决定">
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
+	</question>
+	<question category="positive" text="妻子在重要问题上应该相信与接受丈夫的判断">
 		<answer text="确实是这样" value="1"/>
 		<answer text="可能是这样" value="2"/>
                 <answer text="不同意也不反对" value="3"/>

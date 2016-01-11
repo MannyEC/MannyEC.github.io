@@ -1,299 +1,89 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<quartine>
-	<name>你把心理问题躯体化了吗</name>
-	
-	<question>
-		<text>请根据最近一个月的实际情况判断选择</text>
-		<category>text</category>
+<quartine name="心理问题躯体化了吗">
+	<question text="请根据最近一个月的实际情况判断选择" category="text"></question>
+	<question text="1.头痛" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	
-	<question>
-		<text>1.头痛</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+
+	<question text="2.头昏或昏倒" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	
-	<question>
-		<text>2.头昏或昏倒</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="3.胸痛" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-  	<question>
-		<text>3.胸痛</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="4.腰痛" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>4.腰痛</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="5.恶心或胃部不舒服" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>5.恶心或胃部不舒服</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="6.肌肉酸痛" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>6.肌肉酸痛</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="7.呼吸有困难" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>7.呼吸有困难</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="8.一阵阵发冷或发热" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>8.一阵阵发冷或发热</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="9.身体发麻或刺痛" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>9.身体发麻或刺痛</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="10.喉咙有梗塞感" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>10.喉咙有梗塞感</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="11.感到身体的某一部分软弱无力" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>11.感到身体的某一部分软弱无力</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
-	</question>
-	<question>
-		<text>12.感到手或脚发重</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="12.感到手或脚发重" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
 </quartine>

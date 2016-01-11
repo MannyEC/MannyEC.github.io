@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<quartine name="营造和谐家庭氛围">
+<quartine name="你的家庭成员是否亲密">
 
-<question text="你的家庭成员是否亲密？" category="text"> </question>
+<question text="通过该测验你可以了解到家庭成员之间相互承诺、帮助和支持的程度" category="text"> </question>
 <question category="positive" text="在家里我们感到很无聊。">
 	<answer text="是" value="1" />
 	<answer text="否" value="2" />

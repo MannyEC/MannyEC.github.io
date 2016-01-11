@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<quartine name="你是否是控制的教育方式？">
-         
-       
-	
-	
+<quartine name="你是否是控制的教育方式？">	
 	<question text="认真阅读以下题目，每个题目答案均有1、2、3、4四个等级。请你分别在最适合你父亲和你母亲的等级数字上面选择。每题只准选一个答案。你母亲和父亲对你的教养方式可能是相同的，也可能是不同的。请你实事求是的分别回答。" category="text"> </question>
 
 
@@ -12,108 +8,108 @@
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 		<answer text="母" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 	</question>
 	<question category="positive" text="父母总是左右我该穿什么样的衣服或是打扮成什么样子">
 		<answer text="父" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 		<answer text="母" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 	</question>
 	<question category="positive" text="父母总是挑剔我所喜欢的朋友">
 		<answer text="父" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 		<answer text="母" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 	</question>
 	<question category="positive" text="父母要求我回到家里必须得向他们说明我在做的事情">
 		<answer text="父" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 		<answer text="母" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 	</question>
 	<question category="positive" text="父母常常关注我交往什么样的朋友">
 		<answer text="父" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 		<answer text="母" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 	</question>
 	<question category="positive" text="父母能让我顺其自然的发展">
 		<answer text="父" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 		<answer text="母" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 	</question>
 	<question category="positive" text="父母常常允许我到我喜欢去的地方，而他们又不会过分担心">
 		<answer text="父" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 		<answer text="母" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 	</question>
 	<question category="positive" text="父母常以一种使我很难堪的方式对待我">
 		<answer text="父" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 		<answer text="母" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 	</question>
 	<question category="positive" text="父母对我该做什么、不该做什么都有严格的限制而且绝不让步">
 		<answer text="父" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 		<answer text="母" />
 		<answer text="从不" value="1"/>
 		<answer text="偶尔" value="2"/>
 		<answer text="经常" value="3"/>
-		<answer text="总是\n" value="4"/>
+		<answer text="总是" value="4"/>
 	</question>
 </quartine>
 

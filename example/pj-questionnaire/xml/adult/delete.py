@@ -1,4 +1,4 @@
-url = 'child05.xml'
+url = 'C1T4.xml'
 f = open(url,'r')
 doc = f.read()
 a = str()

@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<quartine name="EuroQol EQ-5D Quality of Life Scale \n Simplified Chinese version">
+<quartine name="你对于家庭中的经济安排是否满意">
 	
-	<question category="text" text="你对于家庭中的经济安排是否满意？">
+	<question category="text" text="你的家庭中对于管理经济的态度是否有分歧？这个小测验共10条，帮助你详细了解，这里主要包括受试经济开销的习惯与观念，对家庭经济安排的看法，夫妻间经济安排的决定方式以及受试对家庭经济状态的评价。">
 	</question>
 	
 	<question category="positive" text="有时，我希望配偶别乱花钱。">
-		<answer text="确实是这样\n" value="1"/>
-		<answer text="可能是这样\n" value="2"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="4"/>
-                <answer text="确实不是这样\n" value="5"/>
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
 	</question>
 	<question category="positive" text="我和配偶对怎样花钱总是意见一致。">
-		<answer text="确实是这样\n" value="5"/>
-		<answer text="可能是这样\n" value="4"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="2"/>
-                <answer text="确实不是这样\n" value="1"/>
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
 	</question>
 	
 	<question category="positive" text="我们很难在经济安排上做出决定。">
-		<answer text="确实是这样\n" value="1"/>
-		<answer text="可能是这样\n" value="2"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="4"/>
-                <answer text="确实不是这样\n" value="5"/>
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
 	</question>
 	
 	
 	
 	<question category="positive" text="我不满意我们的经济地位和决定经济事务的方法">
-		<answer text="确实是这样\n" value="1"/>
-		<answer text="可能是这样\n" value="2"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="4"/>
-                <answer text="确实不是这样\n" value="5"/>
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
 	</question>
         <question category="positive" text="对于家庭应储蓄多少钱的决定，我感到满意。">
-		<answer text="确实是这样\n" value="5"/>
-		<answer text="可能是这样\n" value="4"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="2"/>
-                <answer text="确实不是这样\n" value="1"/>
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
 	</question>
         <question category="positive" text="我们都知道我们所欠的债务，而且它不成问题。">
-		<answer text="确实是这样\n" value="5"/>
-		<answer text="可能是这样\n" value="4"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="2"/>
-                <answer text="确实不是这样\n" value="1"/>
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
 	</question>
        <question category="positive" text="我们按我们的经济实力有规律的花钱。">
-		<answer text="确实是这样\n" value="1"/>
-		<answer text="可能是这样\n" value="2"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="4"/>
-                <answer text="确实不是这样\n" value="5"/>
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
 	</question>
         <question category="positive" text="我们的经济已变得紧张，如赊账过多。">
-		<answer text="确实是这样\n" value="1"/>
-		<answer text="可能是这样\n" value="2"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="4"/>
-                <answer text="确实不是这样\n" value="5"/>
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
 	</question>
         <question category="positive" text="我们很注重决定怎么把钱花在最重要的事情上。">
-		<answer text="确实是这样\n" value="5"/>
-		<answer text="可能是这样\n" value="4"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="2"/>
-                <answer text="确实不是这样\n" value="1"/>
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
 	</question>
 	<question category="positive" text="我很烦恼，没有配偶的允许我不能花钱。">
-		<answer text="确实是这样\n" value="5"/>
-		<answer text="可能是这样\n" value="4"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="2"/>
-                <answer text="确实不是这样\n" value="1"/>
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
 	</question>
 	<question category="positive" text="我很在意谁管钱。">
-		<answer text="确实是这样\n" value="5"/>
-		<answer text="可能是这样\n" value="4"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="2"/>
-                <answer text="确实不是这样\n" value="1"/>
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
 	</question>
 
 	

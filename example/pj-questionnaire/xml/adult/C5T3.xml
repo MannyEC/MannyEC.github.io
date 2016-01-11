@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<quartine name="营造和谐家庭氛围">
+<quartine name="你的家庭中成员之间的心理距离如何">
 
-<question text="你的家庭中成员之间的心理距离如何？" category="text"> </question>
+<question text="通过该测验你可以了解到家庭成员之间的独立性、自尊、自信和自主程度" category="text"> </question>
 <question category="positive" text="在家中我们很少自己单独活动。">
 	<answer text="是" value="1" />
 	<answer text="否" value="2" />

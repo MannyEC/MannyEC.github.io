@@ -1,47 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <quartine name="你是否忽视的教养方式？（用以判断母亲）">
-	
+	<question category="text" text="请仔细阅读每一条，根据你一贯的实际表现判断哲别描述是否符合你的实际情况。">
+	</question>
+
 
 	<question category="negative" text="在满足我需要的东西，母亲总是很小气的">
-		<answer text="A.从不\n" value="1"/>
-		<answer text="B.偶尔\n" value="2"/>
-		<answer text="C.经常\n" value="3"/>
-		<answer text="D.总是\n" value="4"/>
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
 	</question>
 		<question category="negative" text="我在家里往往被当做“替罪羊”或“害群之马”">
-		<answer text="A.从不\n" value="1"/>
-		<answer text="B.偶尔\n" value="2"/>
-		<answer text="C.经常\n" value="3"/>
-		<answer text="D.总是\n" value="4"/>
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
 	</question>	<question category="negative" text="母亲总以为他们的不快是由我引起的">
-		<answer text="A.从不\n" value="1"/>
-		<answer text="B.偶尔\n" value="2"/>
-		<answer text="C.经常\n" value="3"/>
-		<answer text="D.总是\n" value="4"/>
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
 	</question>	<question category="negative" text="我觉得母亲对我很小气，很吝啬">
-		<answer text="A.从不\n" value="1"/>
-		<answer text="B.偶尔\n" value="2"/>
-		<answer text="C.经常\n" value="3"/>
-		<answer text="D.总是\n" value="4"/>
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
 	</question>	<question category="negative" text="母亲经常对我表述类似这样的话“这就是我们为你日夜操劳而得到的报答吗”">
-		<answer text="A.从不\n" value="1"/>
-		<answer text="B.偶尔\n" value="2"/>
-		<answer text="C.经常\n" value="3"/>
-		<answer text="D.总是\n" value="4"/>
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
 	</question>	<question category="negative" text="母亲常以不能娇惯我为借口不满足我的要求">
-		<answer text="A.从不\n" value="1"/>
-		<answer text="B.偶尔\n" value="2"/>
-		<answer text="C.经常\n" value="3"/>
-		<answer text="D.总是\n" value="4"/>
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
 	</question>	<question category="negative" text="母亲经常对我说他们不喜欢我在家的表现">
-		<answer text="A.从不\n" value="1"/>
-		<answer text="B.偶尔\n" value="2"/>
-		<answer text="C.经常\n" value="3"/>
-		<answer text="D.总是\n" value="4"/>
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
 	</question>	<question category="negative" text="母亲经常当着别人的面批评我既懒惰，又无礼">
-		<answer text="A.从不\n" value="1"/>
-		<answer text="B.偶尔\n" value="2"/>
-		<answer text="C.经常\n" value="3"/>
-		<answer text="D.总是\n" value="4"/>
+		<answer text="A.从不" value="1"/>
+		<answer text="B.偶尔" value="2"/>
+		<answer text="C.经常" value="3"/>
+		<answer text="D.总是" value="4"/>
 	</question>	
 </quartine>

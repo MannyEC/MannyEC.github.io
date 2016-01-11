@@ -1,227 +1,69 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<quartine>
-	<name>你有健康的人际关系吗</name>
-	
-	<question>
-		<text>请根据最近一个月的实际情况判断选择</text>
-		<category>text</category>
+<quartine name="你有健康的人际关系吗">
+	<question text="请根据最近一个月的实际情况判断选择" category="text"></question>
+
+	<question text="对旁人责备求全" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	
-	<question>
-		<text>1.对旁人责备求全</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+
+	<question text="同异性相处时感到害羞不自在" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	
-	<question>
-		<text>2.同异性相处时感到害羞不自在</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="你的感情容易受到伤害" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-  	<question>
-		<text>3.你的感情容易受到伤害</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="感到别人不理解你，不同情你" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>4.感到别人不理解你，不同情你</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="感到人们对你不友好，不喜欢你" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>5.感到人们对你不友好，不喜欢你</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="感到比不上他人" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>6.感到比不上他人</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="当别人看着你或谈论你时感到不自在" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>7.当别人看着你或谈论你时感到不自在</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="感到对别人神经过敏" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
-	<question>
-		<text>8.感到对别人神经过敏</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
-	</question>
-	<question>
-		<text>9.感到在公共场合吃东西很不舒服</text>
-		<category>positive</category>
-		<answer>
-			<text>从无\n</text>
-			<value>1</value>
-		</answer>
-		<answer>
-			<text>轻度\n</text>
-			<value>2</value>
-		</answer>
-		<answer>
-			<text>中度\n</text>
-			<value>3</value>
-		</answer>		
-                <answer>
-			<text>重度\n</text>
-			<value>4</value>
-		</answer>
-                <answer>
-			<text>严重\n</text>
-			<value>5</value>
-		</answer>
+	<question text="感到在公共场合吃东西很不舒服" category="positive">
+		<answer text="从无" value="1"></answer>
+		<answer text="轻度" value="2"></answer>
+		<answer text="中度" value="3"></answer>
+		<answer text="重度" value="4"></answer>
+		<answer text="严重" value="5"></answer>
 	</question>
 </quartine>

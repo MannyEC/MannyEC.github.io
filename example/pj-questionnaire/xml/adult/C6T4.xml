@@ -1,82 +1,82 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<quartine name="EuroQol EQ-5D Quality of Life Scale \n Simplified Chinese version">
+<quartine name="你和你的配偶之间的交流如何">
 	
-	<question category="text" text="你和你的配偶之间的交流如何？">
+	<question category="text" text=" 你和配偶之间相互交流的感受怎么样，相互分享感受的程度如何？这个测验共10项，能够帮助你评定你对夫妻间角色交流的感受、信念和态度。">
 	</question>
 	
 	<question category="positive" text="向配偶表达我真实的感受是非常容易的">
-		<answer text="确实是这样\n" value="5"/>
-		<answer text="可能是这样\n" value="4"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="2"/>
-                <answer text="确实不是这样\n" value="1"/>
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
 	</question>
 	
 	<question category="positive" text="当夫妻间出现矛盾时，我的配偶常沉默不语">
-		<answer text="确实是这样\n" value="1"/>
-		<answer text="可能是这样\n" value="2"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="4"/>
-                <answer text="确实不是这样\n" value="5"/>
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
 	</question>
 	
 	<question category="positive" text="我的配偶有时发表贬低我的意见">
-		<answer text="确实是这样\n" value="1"/>
-		<answer text="可能是这样\n" value="2"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="4"/>
-                <answer text="确实不是这样\n" value="5"/>
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
 	</question>
 	
 	<question category="positive" text="有时，我不敢找配偶要我需要的东西">
-		<answer text="确实是这样\n" value="1"/>
-		<answer text="可能是这样\n" value="2"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="4"/>
-                <answer text="确实不是这样\n" value="5"/>
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
 	</question>
 	
 	<question category="positive" text="我希望配偶更愿意与我分享他/她的感受">
-		<answer text="确实是这样\n" value="5"/>
-		<answer text="可能是这样\n" value="4"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="2"/>
-                <answer text="确实不是这样\n" value="1"/>
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
 	</question>
         <question category="positive" text="有时，我很难相信配偶告诉我的每一件事">
-		<answer text="确实是这样\n" value="1"/>
-		<answer text="可能是这样\n" value="2"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="4"/>
-                <answer text="确实不是这样\n" value="5"/>
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
 	</question>
         <question category="positive" text="我经常不把我的感受告诉配偶，因为他/她应该体会得">
-		<answer text="确实是这样\n" value="1"/>
-		<answer text="可能是这样\n" value="2"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="4"/>
-                <answer text="确实不是这样\n" value="5"/>
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
 	</question>
        <question category="positive" text="我非常满意夫妻之间相互谈话的方式">
-		<answer text="确实是这样\n" value="5"/>
-		<answer text="可能是这样\n" value="4"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="2"/>
-                <answer text="确实不是这样\n" value="1"/>
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
 	</question>
         <question category="positive" text="因为担心配偶发脾气，所以我不总是把心里的一下烦恼告诉他/她">
-		<answer text="确实是这样\n" value="1"/>
-		<answer text="可能是这样\n" value="2"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="4"/>
-                <answer text="确实不是这样\n" value="5"/>
+		<answer text="确实是这样" value="1"/>
+		<answer text="可能是这样" value="2"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="4"/>
+                <answer text="确实不是这样" value="5"/>
 	</question>
         <question category="positive" text="我说话时，配偶总是认真听着">
-		<answer text="确实是这样\n" value="5"/>
-		<answer text="可能是这样\n" value="4"/>
-                <answer text="不同意也不反对\n" value="3"/>
-                <answer text="可能不是这样\n" value="2"/>
-                <answer text="确实不是这样\n" value="1"/>
+		<answer text="确实是这样" value="5"/>
+		<answer text="可能是这样" value="4"/>
+                <answer text="不同意也不反对" value="3"/>
+                <answer text="可能不是这样" value="2"/>
+                <answer text="确实不是这样" value="1"/>
 	</question>
 	
 </quartine>

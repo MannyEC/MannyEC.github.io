@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<quartine name="营造和谐家庭氛围">
+<quartine name="你的家庭成员之间的情感沟通如何">
 
-<question text="你的家庭成员之间的情感沟通如何？" category="text"> </question>
+<question text="通过该测验你可以了解到家庭成员之间情感沟通的程度" category="text"> </question>
 <question category="positive" text="家庭成员总是把自己的感情藏在心里不向其他家庭成员透露。">
 	<answer text="是" value="1" />
 	<answer text="否" value="2" />
