@@ -38,9 +38,9 @@
         <option value="$PROJECT_DIR$/js/setTest.js" />
         <option value="$PROJECT_DIR$/js/test.js" />
         <option value="$PROJECT_DIR$/css/test.css" />
-        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/test.html" />
       </list>
     </option>
   </component>
@@ -432,12 +432,12 @@
       <workItem from="1452001316378" duration="3440000" />
       <workItem from="1452426810703" duration="21602000" />
       <workItem from="1452481800869" duration="10555000" />
-      <workItem from="1452515603880" duration="12653000" />
+      <workItem from="1452515603880" duration="12949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87361000" />
+    <option name="totallyTimeSpent" value="87657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="149" y="81" width="1113" height="616" extended-state="1" />
@@ -630,14 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24708624" vertical-offset="1190" max-vertical-offset="1632">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08668076" vertical-offset="6703" max-vertical-offset="8184">
@@ -646,10 +638,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2890443" vertical-offset="1172" max-vertical-offset="1632">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.146853" vertical-offset="2304" max-vertical-offset="3192">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.32867134" vertical-offset="2763" max-vertical-offset="3192">
+          <caret line="121" column="10" selection-start-line="121" selection-start-column="10" selection-end-line="121" selection-end-column="10" />
           <folding />
         </state>
       </provider>
