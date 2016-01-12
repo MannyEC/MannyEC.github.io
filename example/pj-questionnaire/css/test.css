@@ -61,13 +61,14 @@
     width: 50%;
     margin: 8px auto;
     padding: 5px;
-    color: #000C13;
-    background: #D4D4D4;
+    color: #4B6777;;
+    background: #F1F2CD;
+    border-radius: 5px;
 }
 
 .answer ul a:hover {
-    color: #F90000;
-    background: #A8DCA5;
+ 	color: #FFFFFF;
+    background: #596358;
 }
 
 /************rResponsive**********/
