@@ -159,7 +159,8 @@ h1, h2, h3, h4, h5, h6, p {
     height: 100%;
     float: left;
     text-align: center;
-    background: url('../img/index-child.jpg') no-repeat;
+    background: url('../img/index-child.jpg');
+    background-size: cover;
     
 }
 .above-right {
@@ -167,7 +168,8 @@ h1, h2, h3, h4, h5, h6, p {
     height: 100%;
     float: right;
     text-align: center;
-    background: url('../img/index-adult.jpg') no-repeat;
+    background: url('../img/index-adult.jpg');
+    background-size: cover;
 }
 /*****************detail section************/
 .detail {
@@ -287,6 +289,9 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 @media screen and (max-width: 600px){
+	body {
+		min-width: 340px;
+	}
     #search {
         display: none;
     }
