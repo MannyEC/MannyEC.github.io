@@ -49,8 +49,6 @@ function showTest(i){
                 var ns = e.target.nextSibling;
                 countScore(ns);
                 next();
-                console.log(selected);
-                console.log(score);
             }
         }
     }

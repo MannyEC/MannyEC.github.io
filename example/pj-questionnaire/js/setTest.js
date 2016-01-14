@@ -54,7 +54,7 @@ function setTest(xml){
             var select = $(this).attr('text');
             var value = $(this).attr('value');
             frag.append('<a href=\"javascript:;\">'+select+'</a>');
-            frag.append('<input type=\"radio\" value='+ value +' name=\"answer\" style=\"display:none\">');
+            frag.append('<input type=\"hidden\" value='+ value +' name=\"answer\">');
             answfragUL.append(frag);
         })
         answfrag.append(answfragUL);
