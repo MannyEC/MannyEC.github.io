@@ -1,28 +1,49 @@
-/**
- * Created by Administrator on 2016/1/4 0004.
- */
+var isLogin = 0;
+var userId = 12;
+var username = 'zhang';
 
-$(document).ready(function() {
-    var curShow = 0;
-    var dtlMenuList = document.getElementById('dtl-menu-adult').getElementsByTagName('li');
-    var dtlMenuCont = document.getElementById('detail-cont-hide-adult').getElementsByTagName('table');
+var popLogin = {
+    regist: function () {
+        $('.userControl').show();
+        $('#regist').show();
+        $('#login').hide();
 
-    for(var i = 1;i<dtlMenuCont.length;i++){
-        dtlMenuCont[i].style.display = 'none';
+    },
+    login: function () {
+        $('.userControl').show();
+        $('#login').show();
+        $('#regist').hide();
     }
+};
 
-    var showMenu = function(i) {
-        dtlMenuList[i].onmouseover = function () {
-            dtlMenuCont[curShow].style.display = 'none';
-            dtlMenuList[curShow].removeAttribute("id","dtl-menu-selected");
-            curShow = i;
-            dtlMenuCont[curShow].style.display = 'table';
-            dtlMenuList[curShow].setAttribute("id","dtl-menu-selected")
 
-        }
-    };
-    for(var i=0;i<dtlMenuList.length;i++){
-        showMenu(i);
+
+(function () {
+    setLoginArea();
+
+    $('.close').click(function(){
+        $('.userControl').hide();
+    })
+
+
+}());
+
+
+function setLoginArea() {
+    if (isLogin) {
+        //已登录
+        var $frag = '<a href=\"user.html?usrId=' + userId + '\">' + username + '</a>';
+        $('#welcome').append($frag);
+        $('#welcome').show();
+
+
+        $('#loginbar').remove();
     }
+    else {
+        $('#loginbar').show();
+        $('#welcome').remove();
+    }
+}
 
-});
+function close(){
+}

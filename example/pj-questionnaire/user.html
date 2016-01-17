@@ -3,13 +3,13 @@
 <head lang="en">
     <meta charset="UTF-8">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-    <title>test page</title>
+    <title>homepage demo</title>
     <link href="css/main.css" rel="stylesheet" type="text/css">
-    <link href="css/test.css" rel="stylesheet" type="text/css">
-
+    <link href="css/userInfo.css" rel="stylesheet" type="text/css">
+    <link href="css/jPages.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+
 <div class="topbar">
     <div class="topbar-wrap">
         <div class="topbar-left">
@@ -28,25 +28,60 @@
         </div>
     </div>
 </div>
-
-
 <div class="content">
-    <header class="test-title">
-        <h1></h1>
-    </header>
-
-    <div class="test-intro">
-        <p></p>
-        <button type="button" id="startTest">开始测试</button>
-
-    </div>
-    <article class="test-cont">
-        <div class="progress">
-            <div id="progress-bar"></div><span id="progress-value"></span>
+    <div class="user-container">
+        <div class="user-info-sec">
+            <div class="info-list">
+                <h2>个人信息</h2>
+                <ul>
+                    <li><label>用户名</label></li>
+                    <li><label>密码</label></li>
+                    <li><label>姓名</label></li>
+                    <li><label>邮箱</label></li>
+                    <li><label>手机</label></li>
+                    <li><label>性别</label></li>
+                    <li><label>职业</label></li>
+                    <li><label>学历</label></li>
+                </ul>
+            </div>
+            <input class="info-edit" type="submit" value="修改">
         </div>
-        <div class="result"></div>
-    </article>
+        <div class="user-history">
+            <h2>历史记录</h2>
+            <ul id="itemContainer">
+                <li>con1</li>
+                <li>con2</li>
+                <li>con3</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+                <li>con4</li>
+            </ul>
+            <div class="holder">
+            </div>
+        </div>
+    </div>
+<div></div>
 </div>
+
+
+
+
+
+
 
 <div class="userControl">
     <div class="cover"></div>
@@ -83,8 +118,8 @@
 </div>
 
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
-<script type="text/javascript" src="js/main.js"></script>
-<script type="text/javascript" src="js/setTest.js"></script>
-<script type="text/javascript" src="js/test.js"></script>
+<script type="text/javascript" src="js/main.js" ></script>
+<script type="text/javascript" src="js/jPages.min.js"></script>
+<script type="text/javascript" src="js/user.js"></script>
 </body>
 </html>
