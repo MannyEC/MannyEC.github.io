@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "UI-addTo"
+title:      "UI练习-商品查看"
 subtitle:   
 class:		"practice"
 date:       2016-02-05 
