@@ -1,0 +1,166 @@
+body,html,form,p,blockquote,fieldset,input,ul { margin:0; padding:0 }
+
+body {
+    font-family: "Microsoft Yahei", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #f3f3f3;
+}
+
+input,
+button,
+select,
+textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+
+}
+h1, h2, h3, h4, h5, h6, p {
+    font-family: inherit;
+    font-size: inherit;
+    margin:0;
+}
+
+/*页面背景图片*/
+#bg {
+    position: fixed;
+    z-index: -1000;
+    min-height: 800px;
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/bg03.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+/*顶部功能栏*/
+.navbar {
+    height:40px;
+    /*background: #000;*/
+    padding-top: 20px;
+    vertical-align: baseline;
+}
+
+.navbar a {
+    color:#fff;
+}
+.btn-group {
+    padding: 0 20px;
+}
+
+.pull-right {
+    float: right;
+}
+.btn {
+    width: 50px;
+}
+
+/*test.html*/
+
+.container {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.title {
+    height: 100px;
+    vertical-align: baseline;
+    padding-top: 70px;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.content {
+    height:344px;
+    margin:0 10%;
+    background-color: rgba(4, 9, 19, 0.28);
+}
+
+.content .on {
+    display: block;
+}
+
+.content .close {
+    display: none;
+}
+
+
+/*button默认样式*/
+@-webkit-keyframes greenPulse {
+    from { background-color: #749a02; -webkit-box-shadow: 0 0 9px #333; }
+    50% { background-color: #91bd09; -webkit-box-shadow: 0 0 18px #91bd09; }
+    to { background-color: #749a02; -webkit-box-shadow: 0 0 9px #333; }
+}
+
+
+button {
+    font-size: 20px;
+    width:200px;
+    color: white;
+    padding:10px 20px;
+    border-radius: 4px;
+
+    -webkit-animation-name: greenPulse;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+}
+
+#start {
+    margin: 0 auto;
+}
+
+.content {
+    color: #ffffff;
+    font-size: 30px;
+    padding-top:50px;
+}
+
+
+.choice-item {
+    display: inline-block;
+    background: #91bd09;
+    margin: 20px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+.choice-item label {
+    display: inline-block;
+    width: 150px;
+}
+.choice-item input {
+    opacity: 0;
+
+}
+.corp-contact-info {
+    font-size: 1rem;
+    text-align: justify;
+    color: rgb(255, 245, 203);
+    /*background: #A94C4C;*/
+    /*margin: 4%;*/
+    padding: 20px;
+}
+
+#questions p,
+#judgement >p{
+    color: bisque;
+    background: cadetblue;
+    margin: 3%;
+    padding: 37px;
+}
+
+.corp-contact-info p{
+    background: #A94C4C;
+    margin: 4%;
+    padding: 20px;
+}

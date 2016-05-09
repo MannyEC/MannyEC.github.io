@@ -1,0 +1,37 @@
+<div class="container" ng-controller = "questionCtrl">
+    <header class="title">德博运动健康测评</header>
+    <section  class="content">
+        <button class="on" id="start" test-start>Start</button>
+        <section id="questions">
+            <form>
+                <section ng-repeat = "question in questions.content" class="close">
+                    <p>{{ question.num }}.{{ question.description }}</p>
+                    <div class="choice-group">
+                        <div class="choice-item" ng-repeat = "selitem in question.choice">
+                            <label>{{ selitem.text }}<input next-ques type="radio" name="ques{{ question.num }}" value="{{ selitem.value }}" ng-model ="$parent.$parent.selectValue[question.name]"></label>
+                        </div>
+                    </div>
+                </section>
+                <section class="get-contact close">
+                    <label>请留下您的联系方式<input type="text" ng-model="contact"></label>
+                    <button id="result" see-result>查看结果</button>
+                </section>
+            </form>
+
+        </section>
+        <section id="judgement" class="close">
+            <p>测评建议:{{ judgement }}</p>
+            <div class="corp-contact-info">
+                <p>德博健康提供包括运动健康咨询、运动健康测评、运动功能评估、
+                        运动健康指导、运动康复训练、运动器械使用指导、居家运动健康指导、
+                        运动健康管理效果评估、运动健康管理方案制定、
+                        运动健康档案管理等运动健康管理服务产品。</p>
+                   <p>健康咨询热线：400-084-1866（转2</p>
+                    <p>健康服务地址：成都高新正广兴门诊部运动健康指导室  成都市高新区天晖路38号
+                    成都新世纪妇女儿童医院运动与营养健康工作室  成都市青羊区包家巷77号
+                    成都军区总医院非药物健康干预技术推广中心    成都市红星路一段1号</p>
+            </div>
+        </section>
+    </section>
+    <!--{{ selectValue }}-->
+</div>

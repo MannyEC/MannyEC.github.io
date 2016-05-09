@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <title>德博运动测试</title>
+    <link href="static/css/main.css" rel="stylesheet" type="text/css">
+    <script src="static/scripts/lib/angular.min.js"></script>
+    <script src="static/scripts/lib/angular-route.min.js"></script>
+    <script src="app.js"></script>
+    <script src="static/scripts/controller/controller.js"></script>
+    <script src="static/scripts/directive/directive.js"></script>
+
+</head>
+<body ng-app='mainApp'>
+<div id="bg"></div>
+<div class="navbar">
+    <div class="btn-group pull-right">
+        <a id="regist" class="btn" href="#/regist">注册</a>
+        <a id="login" class="btn" href="#/login">登录</a>
+    </div>
+</div>
+<div ng-view></div>
+
+</body>
+</html>
