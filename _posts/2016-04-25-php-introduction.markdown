@@ -11,7 +11,7 @@ tags:
 
 ---
 
-# PHP基本语法
+# PHP语法
 
 **《PHP语言精粹》Peter B.MacIntyre** 
 
