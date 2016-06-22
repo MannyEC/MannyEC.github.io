@@ -10,6 +10,7 @@ tags:
 - Django
 
 ---
+# Django csrf
 
 Django中可以将`{% csrf_token %}`模板和`CsrfViewMiddleware`中间件结合使用，来实现csrf攻击的防御功能。
 ### 文档
