@@ -35,7 +35,7 @@ If you disabled it, which is not recommended, you can use csrf_protect() on part
 2.	In any template that uses a POST form, use the csrf_token tag inside the<form> element if the form is for an internal URL, e.g.:
 3.	<form action="" method="post">{% csrf_token %}
 This should not be done for POST forms that target external URLs, since that would cause the CSRF token to be leaked, leading to a vulnerability.
-4.	In the corresponding view functions, ensure that RequestContext is used to render the response so that {% csrf_token %} will work properly. If you’re using the render() function, generic views, or contrib apps, you are covered already since these all use RequestContext.
+4.	In the corresponding view functions, ensure that RequestContext is used to render the response so that csrf_token will work properly. If you’re using the render() function, generic views, or contrib apps, you are covered already since these all use RequestContext.
 ```
 ### 要点为：
 1.在项目的`settings.py`中，为`MIDDLEWARE_CLASSES` 中添加
@@ -56,7 +56,7 @@ This should not be done for POST forms that target external URLs, since that wou
 ]
 ```
 
-2.在表单中加入{% csrf_token %}标签，要注意的是，django默认对所有页面的表单都进行csrf验证，对于想跳过检验的视图，可以使用装饰器。
+2.在表单中加入 csrf_token 标签，要注意的是，django默认对所有页面的表单都进行csrf验证，对于想跳过检验的视图，可以使用装饰器。
     
     from django.views.decorators.csrf import csrf_exempt
 
@@ -66,7 +66,7 @@ This should not be done for POST forms that target external URLs, since that wou
 
 我在最初使用时漏掉了这一点，出现了下面的错误。
 
-    UserWarning: A {% csrf_token %} was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
+    UserWarning: A  csrf_token  was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
 
 使用时首先引入`RequestContext`
 
