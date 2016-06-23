@@ -12,11 +12,11 @@ tags:
 ---
 # Django csrf
 
-Django中可以将`{% csrf_token %}`模板和`CsrfViewMiddleware`中间件结合使用，来实现csrf攻击的防御功能。
+Django中可以将` csrf_token `模板和`CsrfViewMiddleware`中间件结合使用，来实现csrf攻击的防御功能。
 ### 文档
 https://docs.djangoproject.com/en/dev/ref/csrf/
 ### 实现机制
-在页面view渲染的过程中，会将视图form中`{% csrf_token %}`标签转换为一个隐藏的表单项，其中携带了服务器端生成的token,同时在cookie中写入此token。在该form提交时，会比对该token和cookie中存储的token是否一致，如果不一致，则返回403异常.
+在页面view渲染的过程中，会将视图form中` csrf_token `标签转换为一个隐藏的表单项，其中携带了服务器端生成的token,同时在cookie中写入此token。在该form提交时，会比对该token和cookie中存储的token是否一致，如果不一致，则返回403异常.
 
 #### 下面是使用csrf_token时在html和cookie中产生的效果
 form中的token
