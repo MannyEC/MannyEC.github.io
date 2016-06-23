@@ -13,8 +13,10 @@ tags:
 # Django csrf
 
 Django中可以将` csrf_token `模板和`CsrfViewMiddleware`中间件结合使用，来实现csrf攻击的防御功能。
+
 ### 文档
 https://docs.djangoproject.com/en/dev/ref/csrf/
+
 ### 实现机制
 在页面view渲染的过程中，会将视图form中` csrf_token `标签转换为一个隐藏的表单项，其中携带了服务器端生成的token,同时在cookie中写入此token。在该form提交时，会比对该token和cookie中存储的token是否一致，如果不一致，则返回403异常.
 
@@ -33,7 +35,7 @@ To take advantage of CSRF protection in your views, follow these steps:
 1.	The CSRF middleware is activated by default in the MIDDLEWARE setting. If you override that setting, remember that'django.middleware.csrf.CsrfViewMiddleware' should come before any view middleware that assume that CSRF attacks have been dealt with.
 If you disabled it, which is not recommended, you can use csrf_protect() on particular views you want to protect (see below).
 2.	In any template that uses a POST form, use the csrf_token tag inside the<form> element if the form is for an internal URL, e.g.:
-3.	<form action="" method="post">csrf_token
+3.	<form action="" method="post">{% csrf_token %}
 This should not be done for POST forms that target external URLs, since that would cause the CSRF token to be leaked, leading to a vulnerability.
 4.	In the corresponding view functions, ensure that RequestContext is used to render the response so that csrf_token will work properly. If you’re using the render() function, generic views, or contrib apps, you are covered already since these all use RequestContext.
 ```
@@ -61,6 +63,7 @@ This should not be done for POST forms that target external URLs, since that wou
     from django.views.decorators.csrf import csrf_exempt
 
     @csrf_exempt
+
 3.使用`RequestContext`
 要确保在返回的响应中传入了`RequestContext`，使得中间件可以起作用。
 
