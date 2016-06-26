@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Django REST framework quickstart [译]
+title:      Django rest framework quickstart
 subtitle:   
 class:		"note"
-date:       2016-06-27
+date:       2016-06-22
 author:     "eckid"
 header-img: "img/note-bg.jpg"
 tags:
@@ -11,7 +11,6 @@ tags:
 - 译文
 
 ---
-
 # Quickstart
 
 译于官方[Quickstart](http://www.django-rest-framework.org/tutorial/quickstart/)
@@ -75,7 +74,7 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Group
         fields = ('url', 'name')
-<pre>
+</pre>
 
 请注意，我们在这里通过 `HyperlinkedModelSerializer`使用hyperlinking relationships。你可以改变引用来使用其他的relationships，但hyperlinking 是很好的 RESTful 设计。
 
@@ -220,4 +219,3 @@ HTTP/1.1 200 OK
 If you're working through the browser, make sure to login using the control in the top right corner.
 Great, that was easy!
 If you want to get a more in depth understanding of how REST framework fits together head on over to the tutorial, or start browsing the API guide.
-
