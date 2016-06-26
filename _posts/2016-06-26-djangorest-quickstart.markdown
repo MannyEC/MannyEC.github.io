@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Django REST 
+title:      Django REST framework quickstart [译]
 subtitle:   
 class:		"note"
-date:       2016-06-22
+date:       2016-06-27
 author:     "eckid"
 header-img: "img/note-bg.jpg"
 tags:
