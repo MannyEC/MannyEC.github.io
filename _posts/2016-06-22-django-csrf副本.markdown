@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:      Django RESTframework
+title:      Django cdrf
 subtitle:   
 class:		"note"
-date:       2016-06-26
+date:       2016-06-22
 author:     "eckid"
 header-img: "img/note-bg.jpg"
 tags:
 - Django
-- 译文
 
 ---
 # Django csrf
