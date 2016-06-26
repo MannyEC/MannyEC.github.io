@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Django REST framework quickstart [译]
+title:      Django REST framework quickstart[译]
 subtitle:   
 class:		"note"
 date:       2016-06-27
