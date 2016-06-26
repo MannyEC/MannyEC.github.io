@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Django rest framework 02 
-subtitle:   quickstart
+title:      Django REST framework quickstart
+subtitle:   
 class:		"note"
 date:       2016-06-22
 author:     "eckid"

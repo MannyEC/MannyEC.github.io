@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Django rest framework 介绍
+title:      Django REST framework 介绍
 subtitle:   
 class:		"note"
 date:       2016-06-26
