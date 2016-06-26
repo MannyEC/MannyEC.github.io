@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Django rest framework
+title:      Django rest framework quickstart
 subtitle:   
 class:		"note"
 date:       2016-06-22
@@ -8,6 +8,7 @@ author:     "eckid"
 header-img: "img/note-bg.jpg"
 tags:
 - Django
+- 译文
 
 ---
 # Quickstart
@@ -73,7 +74,7 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Group
         fields = ('url', 'name')
-<pre>
+</pre>
 
 请注意，我们在这里通过 `HyperlinkedModelSerializer`使用hyperlinking relationships。你可以改变引用来使用其他的relationships，但hyperlinking 是很好的 RESTful 设计。
 
