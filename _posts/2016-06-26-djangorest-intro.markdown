@@ -11,8 +11,6 @@ tags:
 - 译文
 
 ---
-# Django REST framework 介绍
-
 ![logo](/img/restlogo.png)
 
 Django REST framework 是一个用于构建Web APIs的有效工具。
