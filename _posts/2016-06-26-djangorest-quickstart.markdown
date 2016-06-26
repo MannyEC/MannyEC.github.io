@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Django REST
+title:      Django REST framework
 subtitle:   
 class:		"note"
 date:       2016-06-27
@@ -10,211 +10,81 @@ tags:
 - Django
 
 ---
-# Quickstart
+# Django csrf
 
-译于官方[Quickstart](http://www.django-rest-framework.org/tutorial/quickstart/)
+Django中可以将` csrf_token `模板和`CsrfViewMiddleware`中间件结合使用，来实现csrf攻击的防御功能。
 
-我们在这里实现一个简单的API，为admin用户创建一个user和groups的编辑界面。
+### 文档
+https://docs.djangoproject.com/en/dev/ref/csrf/
 
-# Project setup
+### 实现机制
+在页面view渲染的过程中，会将视图form中` csrf_token `标签转换为一个隐藏的表单项，其中携带了服务器端生成的token,同时在cookie中写入此token。在该form提交时，会比对该token和cookie中存储的token是否一致，如果不一致，则返回403异常.
 
-创建一个名为 `tutorial`的Django项目，然后创建一个app命名为 `quickstart`
+#### 下面是使用csrf_token时在html和cookie中产生的效果
+form中的token
+![form-csrf](/img/django-csrf-form.png)
 
-<pre>
-# Create the project directory
-mkdir tutorial
-cd tutorial
+cookie中的token
+![cookie-csrf](/img/django-csrf-cookie.png)
 
-# Create a virtualenv to isolate our package dependencies locally
-virtualenv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+### 如何使用
+Django Book中给出了以下的使用步骤：
 
-# Install Django and Django REST framework into the virtualenv
-pip install django
-pip install djangorestframework
+```
+To take advantage of CSRF protection in your views, follow these steps:
+1.	The CSRF middleware is activated by default in the MIDDLEWARE setting. If you override that setting, remember that'django.middleware.csrf.CsrfViewMiddleware' should come before any view middleware that assume that CSRF attacks have been dealt with.
+If you disabled it, which is not recommended, you can use csrf_protect() on particular views you want to protect (see below).
+2.	In any template that uses a POST form, use the csrf_token tag inside the<form> element if the form is for an internal URL, e.g.:
+3.	<form action="" method="post">csrf_token
+This should not be done for POST forms that target external URLs, since that would cause the CSRF token to be leaked, leading to a vulnerability.
+4.	In the corresponding view functions, ensure that RequestContext is used to render the response so that csrf_token will work properly. If you’re using the render() function, generic views, or contrib apps, you are covered already since these all use RequestContext.
+```
+### 要点为：
+1.在项目的`settings.py`中，为`MIDDLEWARE_CLASSES` 中添加
 
-# Set up a new project with a single application
-django-admin.py startproject tutorial .  # Note the trailing '.' character
-cd tutorial
-django-admin.py startapp quickstart
-cd ..
-</pre>
+    'django.middleware.csrf.CsrfViewMiddleware',
+  
+ 我使用的django1.9版本中，默认的顺序为：
 
-首先需要同步你的数据库
-
-<pre>
-python manage.py migrate
-</pre>
-
-然后创建一个管理员用户名为` admin` ，在此将密码设为 `password123`。本例中将用这个账号进行认证登录。
-
-<pre>
-python manage.py createsuperuser
-</pre>
-
-创建完数据库和管理用户之后，接下来我们可以打开app目录，正式开始编程之旅...
-
-# Serializers
-
-首先我们要定义几个serializers。 在项目目录下创建一个新的模块命名为 `tutorial/quickstart/serializers.py `，我们将通过它来展示数据。
-
-<pre>
-from django.contrib.auth.models import User, Group
-from rest_framework import serializers
-
-
-class UserSerializer(serializers.HyperlinkedModelSerializer):
-    class Meta:
-        model = User
-        fields = ('url', 'username', 'email', 'groups')
-
-
-class GroupSerializer(serializers.HyperlinkedModelSerializer):
-    class Meta:
-        model = Group
-        fields = ('url', 'name')
-<pre>
-
-请注意，我们在这里通过 `HyperlinkedModelSerializer`使用hyperlinking relationships。你可以改变引用来使用其他的relationships，但hyperlinking 是很好的 RESTful 设计。
-
-# Views
-
-好的，接下来应该写一些views。请在 `tutorial/quickstart/views.py` 中键入以下内容。
-
-<pre>
-from django.contrib.auth.models import User, Group
-from rest_framework import viewsets
-from tutorial.quickstart.serializers import UserSerializer, GroupSerializer
-
-
-class UserViewSet(viewsets.ModelViewSet):
-    """
-    API endpoint that allows users to be viewed or edited.
-    """
-    queryset = User.objects.all().order_by('-date_joined')
-    serializer_class = UserSerializer
-
-
-class GroupViewSet(viewsets.ModelViewSet):
-    """
-    API endpoint that allows groups to be viewed or edited.
-    """
-    queryset = Group.objects.all()
-    serializer_class = GroupSerializer
-</pre>
-
-比起写多个view的做法，我们将所有的常用的behavior都写入一个类 `ViewSets`。当然，如果有需要也可以很容易的将其分割为多个view，但是使用viewsets能够使应用的逻辑更简洁易于管理。
-
-# URLs
-
-下面该写API URLs ，其位于 `tutorial/urls.py`
-
-<pre>
-from django.conf.urls import url, include
-from rest_framework import routers
-from tutorial.quickstart import views
-
-router = routers.DefaultRouter()
-router.register(r'users', views.UserViewSet)
-router.register(r'groups', views.GroupViewSet)
-
-# Wire up our API using automatic URL routing.
-# Additionally, we include login URLs for the browsable API.
-urlpatterns = [
-    url(r'^', include(router.urls)),
-    url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework'))
+    MIDDLEWARE_CLASSES = [
+        'django.middleware.security.SecurityMiddleware',
+        'django.contrib.sessions.middleware.SessionMiddleware',
+        'django.middleware.common.CommonMiddleware',
+        'django.middleware.csrf.CsrfViewMiddleware',
+        'django.contrib.auth.middleware.AuthenticationMiddleware',
+        'django.contrib.auth.middleware.SessionAuthenticationMiddleware',
+        'django.contrib.messages.middleware.MessageMiddleware',
+        'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
-</pre>
+```
 
-由于我我们在这里使用的viewsets 代替了 views,我们可以自动生成API的URL conf ，你只需要将viewsets注册到router即可。
+2.在表单中加入 csrf_token 标签，要注意的是，django默认对所有页面的表单都进行csrf验证，对于想跳过检验的视图，可以使用装饰器。
+    
+    from django.views.decorators.csrf import csrf_exempt
 
-另外，如果我们需要对API URLs进行更多的控制，那么可以使用原有的views方式，然后把 URL conf写清楚。
+    @csrf_exempt
 
-最后，通过可视化API，我们默认使用了login和logout的视图。 这个功能是可选的，不过当你需要可视化API或者你的API需要认证时，它将很有用。
+3.使用`RequestContext`
+要确保在返回的响应中传入了`RequestContext`，使得中间件可以起作用。
 
-# Settings
+我在最初使用时漏掉了这一点，出现了下面的错误。
 
-我们还要进行一个全局设定，我们要开启分页功能，并且希望API只能被admin用户访问。进行这些设定的模块为 `tutorial/settings.py`
+    UserWarning: A  csrf_token  was used in a template, but the context did not provide the value.  This is usually caused by not using RequestContext.
 
-<pre>
-INSTALLED_APPS = (
-    ...
-    'rest_framework',
-)
+使用时首先引入`RequestContext`
 
-REST_FRAMEWORK = {
-    'DEFAULT_PERMISSION_CLASSES': ('rest_framework.permissions.IsAdminUser',),
-    'PAGE_SIZE': 10
-}
-</pre>
+    from django.template import RequestContext
+    
+然后可以选择配合render使用或者使用其他response方法
 
-Okay, we're done.
+    #如果使用render
+    def login(request):
+        ...
+        t=loader.get_template('login.html')
+        c=RequestContext(request,{'name':'zhang'})
+        return HttpResponse(t.render(c))
+    #如果使用render_to_response
+    def login(request):
+        ...
+        return render_to_response('login.html',{'name'    :'zhang'},context_instance = RequestContext(request))
 
-# 测试我们的API
-
-现在我们准备好测试刚刚创建的API，先通过命令行运行项目。
-
-<pre>
-python ./manage.py runserver
-</pre>
-
-可以用命令行或者curl之类的工具来访问API
-
-<pre>
-bash: curl -H 'Accept: application/json; indent=4' -u admin:password123 http://127.0.0.1:8000/users/
-{
-    "count": 2,
-    "next": null,
-    "previous": null,
-    "results": [
-        {
-            "email": "admin@example.com",
-            "groups": [],
-            "url": "http://127.0.0.1:8000/users/1/",
-            "username": "admin"
-        },
-        {
-            "email": "tom@example.com",
-            "groups": [                ],
-            "url": "http://127.0.0.1:8000/users/2/",
-            "username": "tom"
-        }
-    ]
-}
-</pre>
-
-或者使用httpie，一个命令行工具
-
-<pre>
-bash: http -a admin:password123 http://127.0.0.1:8000/users/
-
-HTTP/1.1 200 OK
-...
-{
-    "count": 2,
-    "next": null,
-    "previous": null,
-    "results": [
-        {
-            "email": "admin@example.com",
-            "groups": [],
-            "url": "http://localhost:8000/users/1/",
-            "username": "paul"
-        },
-        {
-            "email": "tom@example.com",
-            "groups": [                ],
-            "url": "http://127.0.0.1:8000/users/2/",
-            "username": "tom"
-        }
-    ]
-}
-</pre>
-
-当然也可以直接用浏览器
-
-![quickstart](/img/quickstart.png)
-
-If you're working through the browser, make sure to login using the control in the top right corner.
-Great, that was easy!
-If you want to get a more in depth understanding of how REST framework fits together head on over to the tutorial, or start browsing the API guide.
