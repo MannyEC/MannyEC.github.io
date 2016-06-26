@@ -1,8 +1,8 @@
 # Site settings
-title: Eckid考勤机
-SEOTitle: Eckid考勤机
-header-img: img/home-bg.jpg
-email: zhangmanni1122@gmail.com
+title: "Eckid考勤机"
+SEOTitle: "Eckid考勤机"
+header-img: "img/home-bg.jpg"
+email: "zhangmanni1122@gmail.com"
 description: "前端自修"
 keyword: "Eckid,前端，python,产品"
 url: "http://MannyEC.github.io"              # your host, for absolute URL
