@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      [译]Django REST framework quickstart
+title:      Django REST framework quickstart [译]
 subtitle:   
 class:		"note"
 date:       2016-06-27
@@ -8,7 +8,7 @@ author:     "eckid"
 header-img: "img/note-bg.jpg"
 tags:
 - Django
-- 翻译
+- 译文
 
 ---
 
