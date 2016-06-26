@@ -21,7 +21,7 @@ github_username:    MannyEC
 
 
 # Build settings
-highlighter: pygments
+highlighter: rough
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
