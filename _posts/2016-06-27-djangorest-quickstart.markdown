@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Django REST framework quickstart [译]
+title:      Django REST framework quickstart
 subtitle:   
 class:		"note"
 date:       2016-06-27
@@ -46,6 +46,7 @@ cd ..
 
 ```
 python manage.py migrate
+
 ```
 
 然后创建一个管理员用户名为` admin` ，在此将密码设为 `password123`。本例中将用这个账号进行认证登录。
@@ -214,7 +215,9 @@ HTTP/1.1 200 OK
 ```
 
 当然也可以直接用浏览器
+
 ![quickstart](/img/quickstart.png)
+
 If you're working through the browser, make sure to login using the control in the top right corner.
 Great, that was easy!
 If you want to get a more in depth understanding of how REST framework fits together head on over to the tutorial, or start browsing the API guide.
