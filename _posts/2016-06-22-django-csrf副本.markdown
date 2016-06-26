@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Django cdrf
+title:      Django rest framework
 subtitle:   
 class:		"note"
 date:       2016-06-22
