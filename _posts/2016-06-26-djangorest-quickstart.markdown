@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Django REST
+title:      Django rest
 subtitle:   
 class:		"note"
 date:       2016-06-27
