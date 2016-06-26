@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Django rest framework 02 
-subtitle:   quickstart
+title:      Django rest framework 介绍
+subtitle:   
 class:		"note"
-date:       2016-06-22
+date:       2016-06-26
 author:     "eckid"
 header-img: "img/note-bg.jpg"
 tags:

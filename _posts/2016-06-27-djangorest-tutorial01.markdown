@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Django rest framework 02 
-subtitle:   quickstart
+title:      Django rest framework Tutorial01
+subtitle:   Serialization
 class:		"note"
 date:       2016-06-22
 author:     "eckid"
