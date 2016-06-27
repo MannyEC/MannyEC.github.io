@@ -3,7 +3,7 @@ layout:     post
 title:      Django REST framework 教程1 Serialization
 subtitle:   
 class:		"note"
-date:       2016-06-22
+date:       2016-06-27
 author:     "eckid"
 header-img: "img/note-bg.jpg"
 tags:
