@@ -34,29 +34,37 @@ $ make install
 
 #### 1. `libpcap_stuff.c:20:21: 错误：net/bpf.h：没有那个文件或目录`
 
-安装`libpcap`及`libpcap-dev`
+<pre>
 
-`sudo apt-get install libpcap-dev`
+安装libpcap及libpcap-dev
 
-或已安装情况下`ln -sf /usr/include/pcap-bpf.h /usr/include/net/bpf.h`
+sudo apt-get install libpcap-dev
+
+或已安装情况下
+
+ln -sf /usr/include/pcap-bpf.h /usr/include/net/bpf.h
+</pre>
 
 #### 2.`/usr/bin/ld: cannot find -ltcl`
 
 安装tcl库
 
-`yum -y install tcl`           
+<pre>
+yum -y install tcl       
 
-`yum -y install tcl-devel` 或 `sudo apt-get install tcl-dev`
-
+yum -y install tcl-devel 或 sudo apt-get install tcl-dev
+</pre>
 #### 3.安装GCC
 
-`sudo apt-get install build-essential`
+<pre>
+sudo apt-get install build-essential
+</pre>
 
 #### 4. `Your operating system's lex is insufficient to compile libpcap. `
 
 安装 flex
 
-`sudo apt-get install flex`
+<pre>sudo apt-get install flex</pre>
 
 #### 4.安装libpcap
 [http://www.tcpdump.org/#latest-release](http://www.tcpdump.org/#latest-release)下载libpcap
@@ -67,12 +75,12 @@ $ make install
 
 解决办法：
  
-`sudo apt-get install -y byacc`
+<pre>sudo apt-get install -y byacc</pre>
 
 #### 6.`/home/zhangmanni/Desktop/hping-master/main.c:190: undefined reference to 'hping_script'`
 
-`$ sudo make clean`
+<pre>$ sudo make clean</pre>
 
 #### 7.`Sorry, this hping binary was compiled without TCL scripting support`
 
-`$ sudo apt-get install tcl-dev`
+<pre>$ sudo apt-get install tcl-dev</pre>
