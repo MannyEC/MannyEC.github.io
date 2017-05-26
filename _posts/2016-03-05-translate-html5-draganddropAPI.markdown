@@ -28,15 +28,15 @@ tags:
 
 原生 API 允许我们给元素添加 `draggable="true"` 属性来定义元素可被拖放。也有一些元素被默认为可拖放的，无需再添加属性（比如 images 或 text）。
 
-[![01](http://jbcdn2.b0.upaiyun.com/2015/11/e5d1fb33b17dd6825f1ee24dbe0d85db-300x47.jpg)](http://jbcdn2.b0.upaiyun.com/2015/11/e5d1fb33b17dd6825f1ee24dbe0d85db.jpg)
+[![01](/img/post/2016-03-05-translate-01.jpg)](/img/post/2016-03-05-translate-01.jpg)
 
 默认情况下，当可拖动元素被拖动时，只有 `form`类元素，如`input`，才能作为接受它们放入的容器。你应该曾见到过这种情况：如果你选中了一些文本，将他们拖入一个 `textarea`，这些文本将会被复制到该 `textarea`元素中。
 
-[![02](http://jbcdn2.b0.upaiyun.com/2015/11/f13bdadb0bbe29966e9e4c4e01677bc0-300x53.png)](http://jbcdn2.b0.upaiyun.com/2015/11/f13bdadb0bbe29966e9e4c4e01677bc0.png)
+[![02](/img/post/2016-03-05-translate-02.png)](/img/post/2016-03-05-translate-02.png)
 
 原生 API 也能接受从 OS 中浏览器的外部区域，拖入文件到你的置入区域。几乎所有优秀的内容管理系统都能提供内容的拖拽上传。由于这些文件位于外部，你需要便是配置 drop 区域（以及能兼容的浏览器）。
 
-[![03](http://jbcdn2.b0.upaiyun.com/2015/11/f1389a8d6bed7c00cca3d1f305d13445-300x137.jpg)](http://jbcdn2.b0.upaiyun.com/2015/11/f1389a8d6bed7c00cca3d1f305d13445.jpg)
+[![03](/img/post/2016-03-05-translate-03.jpg)](/img/post/2016-03-05-translate-03.jpg)
 
 ### 移动设备的简要说明
 
@@ -338,7 +338,7 @@ event.stopPropagation();
 
 另外，这个实例可以处理本地拖入的图像。你能够直接从桌面拖图片到浏览器的 drop 区域中，原生 API 将会处理图片并将它展示出来。
 
-[![04](http://jbcdn2.b0.upaiyun.com/2015/11/9e45bbb9e4031d69306811b6ab6041c9-300x155.jpg)](http://jbcdn2.b0.upaiyun.com/2015/11/9e45bbb9e4031d69306811b6ab6041c9.jpg)
+[![04](/img/post/2016-03-05-translate-04.jpg)](/img/post/2016-03-05-translate-04.jpg)
 
 如果你现在就想知道它是怎样实现的，可以看下面的 CodePen 示例：
 
